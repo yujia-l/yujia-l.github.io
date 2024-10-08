@@ -43,7 +43,6 @@ I'm now looking for 2024 summer research opportunities. A complete version of my
 [BrickSmart: Leveraging Generative AI to Support Children's Spatial Language Learning in Family Block Play](https://yujia-l.github.io/BrickSmart.pdf)
 
 **Yujia Liu***, Siyu Zha*, Yuewen Zhang, Yanjin Wang, Yangming Zhang, Qi Xin, Lunyiu Nie, Chao Zhang, Yingqing Xu.
-- To appear in the 2024 CHI Conference on Human Factors in Computing Systems (CHI), 2024.
 - TLDR: A mobile application that leverages LLMs for generating dynamic, personalized persuasive content to mitigate problematic smartphone use for digital well-being. Effectiveness validated via a 5-week field trial with 25 participants, showing significant improvements in intervention acceptance (17.8-22.5% ↑) and reductions in smartphone usage frequency (12.1-14.4% ↓).
 </div>
 </div>
@@ -54,7 +53,6 @@ I'm now looking for 2024 summer research opportunities. A complete version of my
 [Mentigo: An Intelligent Agent for Mentoring Students in the Creative Problem Solving Process](https://yujia-l.github.io/Mentigo.pdf)
 
 Siyu Zha*, **Yujia Liu***, Chengbo Zheng, Jiaqi Xu, Fuze Yu, Jiangtao Gong, Yingqing Xu.
-- To appear in the 2024 CHI Conference on Human Factors in Computing Systems (CHI), 2024.
 - TLDR: A mobile application that leverages LLMs for generating dynamic, personalized persuasive content to mitigate problematic smartphone use for digital well-being. Effectiveness validated via a 5-week field trial with 25 participants, showing significant improvements in intervention acceptance (17.8-22.5% ↑) and reductions in smartphone usage frequency (12.1-14.4% ↓).
 </div>
 </div>
@@ -69,7 +67,7 @@ Ruolan Wu, Chun Yu, Xiaole Pan, **Yujia Liu**, Ningning Zhang, Yue Fu, Yuhan Wan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to CHI'25</div><img src='images/proj/mindshift.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to CHI'25</div><img src='images/proj/Xstrings_head.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Xstrings: 3D printing cable-driven mechanism for actuation, deformation, and manipulation](https://dl.acm.org/doi/pdf/10.1145/3613904.3642790)
