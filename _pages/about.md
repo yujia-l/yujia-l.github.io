@@ -37,7 +37,7 @@ I'm now looking for 2024 summer research opportunities. A complete version of my
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to CHI'25</div><img src='images/proj/BrickSmart_top.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to CHI'25</div><img src='images/proj/BrickSmart_top.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [BrickSmart: Leveraging Generative AI to Support Children's Spatial Language Learning in Family Block Play](https://yujia-l.github.io/BrickSmart.pdf)
