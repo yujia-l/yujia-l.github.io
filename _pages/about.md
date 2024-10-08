@@ -27,7 +27,7 @@ I'm now looking for 2024 summer research opportunities. A complete version of my
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to UIST 2024</div><img src='images/proj/mirrorcle.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to CHI'25</div><img src='images/proj/mirrorcle.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [3D-Mirrorcle: Bridging the Virtual and Real through Depth Alignment in Smart Mirror Systems](https://arxiv.org/pdf/2310.13617.pdf)
@@ -38,7 +38,7 @@ I'm now looking for 2024 summer research opportunities. A complete version of my
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='images/proj/mindshift.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'24</div><img src='images/proj/mindshift.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention](https://arxiv.org/pdf/2309.16639.pdf)
