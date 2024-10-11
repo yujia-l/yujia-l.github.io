@@ -70,7 +70,7 @@ Ruolan Wu, Chun Yu, Xiaole Pan, **Yujia Liu**, Ningning Zhang, Yue Fu, Yuhan Wan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to CHI'25</div><img src='images/proj/Xstrings_head.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Xstrings: 3D printing cable-driven mechanism for actuation, deformation, and manipulation](https://dl.acm.org/doi/pdf/10.1145/3613904.3642790)
+[Xstrings: 3D printing cable-driven mechanism for actuation, deformation, and manipulation](https://yujia-l.github.io/Xstrings.pdf)
 
 Jiaji Li, Shuyue Feng, Maxine Alexandra Perroni-Scharf, **Yujia Liu**, Emily Guan, Guanyun Wang, Stefanie Mueller. 
 - TLDR: A mobile application that leverages LLMs for generating dynamic, personalized persuasive content to mitigate problematic smartphone use for digital well-being. Effectiveness validated via a 5-week field trial with 25 participants, showing significant improvements in intervention acceptance (17.8-22.5% ↑) and reductions in smartphone usage frequency (12.1-14.4% ↓).
@@ -145,8 +145,10 @@ MingYu Cui, Chao Yuan, **Yujia Liu**, Yingying Zheng.
 - *2022.09 - Now*, Tsinghua University, M.A. in Information Art and Design.
 - *2017.08 - 2022.07*, Tsinghua University, B.Eng. in Automation Engineering & B.A. in Industrial Design.
 
-# 💻 Internships
-- *2022.10 - Now*, Research Assistant @ Tsinghua University Pervasive Interaction Laboratory.
+# 💻 Internship Experience
+- *2021.8 - Now*, Research Assistant @ Future Lab, Tsinghua University.
+- *2024.6 - Now*, Visiting Student @ HCI Engineering Group, CSAIL, MIT.
+- *2022.10 - 2023.6*, Research Assistant @ Pervasive Interaction Laboratory, Tsinghua University.
 - *2021.07 - 2021.10*, Product Manager Intern @ Huawei, ID/UX Design Group, Cyberverse Product Line.
 - *2020.06 - 2020.08*, Algorithm Engineer Intern @ Beijing Ewaybot Technology, Robot Navigation Group.
 
