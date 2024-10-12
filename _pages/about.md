@@ -27,7 +27,7 @@ I'm now looking for 2024 summer research opportunities. A complete version of my
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to CHI'25</div><img src='images/proj/mirrorcle.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to CHI'25</div><img src='images/proj/3DMirrorcle.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [3D-Mirrorcle: Bridging the Virtual and Real through Depth Alignment in Smart Mirror Systems](https://yujia-l.github.io/3DMirrorcle.pdf)
@@ -37,7 +37,7 @@ I'm now looking for 2024 summer research opportunities. A complete version of my
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to CHI'25</div><img src='images/proj/BrickSmart_top.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to CHI'25</div><img src='images/proj/BrickSmart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [BrickSmart: Leveraging Generative AI to Support Children's Spatial Language Learning in Family Block Play](https://yujia-l.github.io/BrickSmart.pdf)
@@ -47,7 +47,7 @@ I'm now looking for 2024 summer research opportunities. A complete version of my
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to CHI'25</div><img src='images/proj/mindshift.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to CHI'25</div><img src='images/proj/Mentigo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Mentigo: An Intelligent Agent for Mentoring Students in the Creative Problem Solving Process](https://yujia-l.github.io/Mentigo.pdf)
@@ -57,17 +57,7 @@ Siyu Zha*, **Yujia Liu***, Chengbo Zheng, Jiaqi Xu, Fuze Yu, Jiangtao Gong, Ying
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'24</div><img src='images/proj/mindshift.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention](https://dl.acm.org/doi/pdf/10.1145/3613904.3642790)
-
-Ruolan Wu, Chun Yu, Xiaole Pan, **Yujia Liu**, Ningning Zhang, Yue Fu, Yuhan Wang, Zhi Zheng, Li Chen, Qi-aolei Jiang, Xuhai Xu, Yuanchun Shi.
-- TLDR: A mobile application that leverages LLMs for generating dynamic, personalized persuasive content to mitigate problematic smartphone use for digital well-being. Effectiveness validated via a 5-week field trial with 25 participants, showing significant improvements in intervention acceptance (17.8-22.5% ↑) and reductions in smartphone usage frequency (12.1-14.4% ↓).
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to CHI'25</div><img src='images/proj/Xstrings_head.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to CHI'25</div><img src='images/proj/Xstrings.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Xstrings: 3D printing cable-driven mechanism for actuation, deformation, and manipulation](https://yujia-l.github.io/Xstrings.pdf)
@@ -77,7 +67,17 @@ Jiaji Li, Shuyue Feng, Maxine Alexandra Perroni-Scharf, **Yujia Liu**, Emily Gua
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST'24 Poster</div><img src='images/proj/mindshift.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'24</div><img src='images/proj/MindShift.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention](https://dl.acm.org/doi/pdf/10.1145/3613904.3642790)
+
+Ruolan Wu, Chun Yu, Xiaole Pan, **Yujia Liu**, Ningning Zhang, Yue Fu, Yuhan Wang, Zhi Zheng, Li Chen, Qi-aolei Jiang, Xuhai Xu, Yuanchun Shi.
+- TLDR: A mobile application that leverages LLMs for generating dynamic, personalized persuasive content to mitigate problematic smartphone use for digital well-being. Effectiveness validated via a 5-week field trial with 25 participants, showing significant improvements in intervention acceptance (17.8-22.5% ↑) and reductions in smartphone usage frequency (12.1-14.4% ↓).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST'24 Poster</div><img src='images/proj/KeyFlow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [KeyFlow: Acoustic Motion Sensing for Cursor Control on Any Keyboard](https://yujia-l.github.io/KeyFlow.pdf)
@@ -87,7 +87,7 @@ Jiaji Li, Shuyue Feng, Maxine Alexandra Perroni-Scharf, **Yujia Liu**, Emily Gua
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST'24 Demo</div><img src='images/proj/mindshift.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST'24 Demo</div><img src='images/proj/FlexEOP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FlexEOP: Flexible Shape-changing Actuator using Embedded Electroosmotic Pumps](https://yujia-l.github.io/FlexEOP.pdf)
@@ -97,7 +97,7 @@ Tianyu Yu, Yang Liu, **Yujia Liu**, Qiuyu Lu, Teng Han, Haipeng Mi.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UbiComp'24 Workshop</div><img src='images/proj/mindshift.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UbiComp'24 Workshop</div><img src='images/proj/<MoreThanShapes>.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [More Than Shapes: Exploring the Tactile Parameters of Art Appreciation for the Visually Impaired](https://dl.acm.org/doi/pdf/10.1145/3675094.3678391)
