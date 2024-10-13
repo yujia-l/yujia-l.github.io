@@ -17,13 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Yujia Liu, an HCI student researcher passionate about Human-AI Interaction and Fabrication. Currently, I'm pursuing my M.A. in Information Art and Design at the Future Lab of Tsinghua University, under the advisory of Prof. [Yingqing Xu](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/Human_Computer_Interaction__and_User_Experience/Resercher/Yingqing_Xu.htm) and Prof. [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/). 
+I'm Yujia Liu, a 3rd-year M.A. student in Information Art and Design at Tsinghua University's Future Lab, advised by Prof. [Yingqing Xu](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/Human_Computer_Interaction__and_User_Experience/Resercher/Yingqing_Xu.htm) and Prof. [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/). I am now seeking PhD opportunities for Fall 2025.
 
-My academic journey began with undergraduate degrees in Automation Engineering and Industrial Design, laying a dual foundation that marries technical precision with aesthetic innovation. My work embodies this cross-disciplinary fusion, particularly evident in projects ranging from AR-enhanced smart mirrors, LLM-based digital well-being management, to 3D LEGO design generations. Each project reflects my commitment to leveraging a blend of engineering precision and design sensitivity, aiming to create technologies that are not only efficient and functional but also accessible and engaging for users.
+With a multidisciplinary background in Computer Science, Automation Engineering, and Design, my research focuses on developing technologies that are not only efficient and functional but also accessible and engaging for users. My recent work spans several areas, and I am currently exploring three potential research directions: Human-AI interaction, hardware engineering, and fabrication—or their intersection.
 
-In spare time I am also a vlogger & content creator on [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5ad8bc90e8ac2b398c6ac4a1) with ~100k subscribers. 
+View my [CV](https://yujia-l.github.io/pdfs/CV.pdf).
 
-I'm now looking for 2024 summer research opportunities. A complete version of my CV is available [HERE](https://yujia-l.github.io/pdfs/CV.pdf).
 
 # 📝 Publications 
 
@@ -174,3 +173,5 @@ My work included designing and conducting the user study, adjusting images, and 
 - *2021.07 - 2021.10*, Product Manager Intern @ Huawei, ID/UX Design Group, Cyberverse Product Line.
 - *2020.06 - 2020.08*, Algorithm Engineer Intern @ Beijing Ewaybot Technology, Robot Navigation Group.
 
+# 🧘‍♀️ Hobbies
+In my spare time, I enjoy practicing yoga, zazen meditation, photography, and knitting. I’m also a vlogger & content creator on [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5ad8bc90e8ac2b398c6ac4a1) with ~100k subscribers. 
