@@ -144,7 +144,7 @@ My work involved conducting literature research, developing the framework, and d
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/phone_color.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/Color1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **User’s Color Preferences of Pictures Across Diverse Displays**
@@ -153,7 +153,7 @@ My work included designing and conducting the user study, adjusting images, and 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/Color1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/Speaker.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Ferrofluid Speaker Design Based on Emotion-Mapped Musical Elements**](https://drive.google.com/file/d/1jVUglUCcuspq0HQMu4pqdy2FeszfBXGU/view?usp=drive_link)
