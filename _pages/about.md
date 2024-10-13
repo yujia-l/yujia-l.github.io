@@ -21,7 +21,7 @@ I'm Yujia Liu, currently a 3rd-year M.A. student in Information Art and Design a
 
 With a multidisciplinary background in Computer Science, Automation Engineering, and Design, my research focuses on developing technologies that are not only efficient and functional but also accessible and engaging for users. My recent work spans several areas, and I am currently exploring three potential research directions: Human-AI interaction, hardware engineering, and fabrication—or their intersection.
 
-View my [CV](https://yujia-l.github.io/pdfs/CV.pdf).
+View my [CV](https://yujia-l.github.io/pdfs/cv.pdf).
 
 
 # 📝 Publications 
