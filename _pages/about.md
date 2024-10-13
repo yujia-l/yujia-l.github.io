@@ -72,7 +72,7 @@ This work has been submitted to ACM CHI’25. My work included mathematical deri
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'24</div><img src='images/proj/MindShift.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'24</div><img src='images/proj/MindShift_o.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention](https://dl.acm.org/doi/pdf/10.1145/3613904.3642790)
