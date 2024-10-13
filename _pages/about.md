@@ -23,14 +23,14 @@ My academic journey began with undergraduate degrees in Automation Engineering a
 
 In spare time I am also a vlogger & content creator on [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5ad8bc90e8ac2b398c6ac4a1) with ~100k subscribers. 
 
-I'm now looking for 2024 summer research opportunities. A complete version of my CV is available [HERE](https://yujia-l.github.io/cv.pdf).
+I'm now looking for 2024 summer research opportunities. A complete version of my CV is available [HERE](https://yujia-l.github.io/pdfs/cv.pdf).
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to CHI'25</div><img src='images/proj/3DMirrorcle.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[3D-Mirrorcle: Bridging the Virtual and Real through Depth Alignment in Smart Mirror Systems](https://yujia-l.github.io/3DMirrorcle.pdf)
+[3D-Mirrorcle: Bridging the Virtual and Real through Depth Alignment in Smart Mirror Systems](https://yujia-l.github.io/pdfs/3DMirrorcle.pdf)
 
 **Yujia Liu**, Qi Xin, Chenzhuo Xiang, Yu Zhang, Yingqing Xu.
 - TLDR: An innovative smart mirror system integrating AR with real-world reflections, addressing depth disparity via a lenticular grating setup, with real-time image adjustment and position adaptation algorithms to align AR content with the user's depth perception and enhance interaction realism. Demonstrated through a makeup application prototype with significant improvements in accuracy (11.1% ↑), task completion time (47.9% ↓), and user satisfaction (44.4% ↑) compared to the existing systems.
@@ -40,7 +40,7 @@ I'm now looking for 2024 summer research opportunities. A complete version of my
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to CHI'25</div><img src='images/proj/BrickSmart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[BrickSmart: Leveraging Generative AI to Support Children's Spatial Language Learning in Family Block Play](https://yujia-l.github.io/BrickSmart.pdf)
+[BrickSmart: Leveraging Generative AI to Support Children's Spatial Language Learning in Family Block Play](https://yujia-l.github.io/pdfs/BrickSmart.pdf)
 
 **Yujia Liu***, Siyu Zha*, Yuewen Zhang, Yanjin Wang, Yangming Zhang, Qi Xin, Lunyiu Nie, Chao Zhang, Yingqing Xu.
 - TLDR: A mobile application that leverages LLMs for generating dynamic, personalized persuasive content to mitigate problematic smartphone use for digital well-being. Effectiveness validated via a 5-week field trial with 25 participants, showing significant improvements in intervention acceptance (17.8-22.5% ↑) and reductions in smartphone usage frequency (12.1-14.4% ↓).
@@ -50,7 +50,7 @@ I'm now looking for 2024 summer research opportunities. A complete version of my
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to CHI'25</div><img src='images/proj/Mentigo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Mentigo: An Intelligent Agent for Mentoring Students in the Creative Problem Solving Process](https://yujia-l.github.io/Mentigo.pdf)
+[Mentigo: An Intelligent Agent for Mentoring Students in the Creative Problem Solving Process](https://yujia-l.github.io/pdfs/Mentigo.pdf)
 
 Siyu Zha*, **Yujia Liu***, Chengbo Zheng, Jiaqi Xu, Fuze Yu, Jiangtao Gong, Yingqing Xu.
 - TLDR: A mobile application that leverages LLMs for generating dynamic, personalized persuasive content to mitigate problematic smartphone use for digital well-being. Effectiveness validated via a 5-week field trial with 25 participants, showing significant improvements in intervention acceptance (17.8-22.5% ↑) and reductions in smartphone usage frequency (12.1-14.4% ↓).
@@ -60,7 +60,7 @@ Siyu Zha*, **Yujia Liu***, Chengbo Zheng, Jiaqi Xu, Fuze Yu, Jiangtao Gong, Ying
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to CHI'25</div><img src='images/proj/Xstrings.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Xstrings: 3D printing cable-driven mechanism for actuation, deformation, and manipulation](https://yujia-l.github.io/Xstrings.pdf)
+[Xstrings: 3D printing cable-driven mechanism for actuation, deformation, and manipulation](https://yujia-l.github.io/pdfs/Xstrings.pdf)
 
 Jiaji Li, Shuyue Feng, Maxine Alexandra Perroni-Scharf, **Yujia Liu**, Emily Guan, Guanyun Wang, Stefanie Mueller. 
 - TLDR: A mobile application that leverages LLMs for generating dynamic, personalized persuasive content to mitigate problematic smartphone use for digital well-being. Effectiveness validated via a 5-week field trial with 25 participants, showing significant improvements in intervention acceptance (17.8-22.5% ↑) and reductions in smartphone usage frequency (12.1-14.4% ↓).
@@ -80,7 +80,7 @@ Ruolan Wu, Chun Yu, Xiaole Pan, **Yujia Liu**, Ningning Zhang, Yue Fu, Yuhan Wan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST'24 Poster</div><img src='images/proj/KeyFlow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[KeyFlow: Acoustic Motion Sensing for Cursor Control on Any Keyboard](https://yujia-l.github.io/KeyFlow.pdf)
+[KeyFlow: Acoustic Motion Sensing for Cursor Control on Any Keyboard](https://yujia-l.github.io/pdfs/KeyFlow.pdf)
 
 **Yujia Liu***, Qihang Shan*, Zhihao Yao, Qiuyu Lu.
 - TLDR: A mobile application that leverages LLMs for generating dynamic, personalized persuasive content to mitigate problematic smartphone use for digital well-being. Effectiveness validated via a 5-week field trial with 25 participants, showing significant improvements in intervention acceptance (17.8-22.5% ↑) and reductions in smartphone usage frequency (12.1-14.4% ↓).
@@ -90,7 +90,7 @@ Ruolan Wu, Chun Yu, Xiaole Pan, **Yujia Liu**, Ningning Zhang, Yue Fu, Yuhan Wan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST'24 Demo</div><img src='images/proj/FlexEOP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FlexEOP: Flexible Shape-changing Actuator using Embedded Electroosmotic Pumps](https://yujia-l.github.io/FlexEOP.pdf)
+[FlexEOP: Flexible Shape-changing Actuator using Embedded Electroosmotic Pumps](https://yujia-l.github.io/pdfs/FlexEOP.pdf)
 
 Tianyu Yu, Yang Liu, **Yujia Liu**, Qiuyu Lu, Teng Han, Haipeng Mi.
 - TLDR: A mobile application that leverages LLMs for generating dynamic, personalized persuasive content to mitigate problematic smartphone use for digital well-being. Effectiveness validated via a 5-week field trial with 25 participants, showing significant improvements in intervention acceptance (17.8-22.5% ↑) and reductions in smartphone usage frequency (12.1-14.4% ↓).
