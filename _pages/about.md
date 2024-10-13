@@ -42,7 +42,7 @@ I'm now looking for 2024 summer research opportunities. A complete version of my
   
 [BrickSmart: Leveraging Generative AI to Support Children's Spatial Language Learning in Family Block Play](https://yujia-l.github.io/pdfs/BrickSmart.pdf)
 
-**Yujia Liu***, Siyu Zha*, Yuewen Zhang, Yanjin Wang, Yangming Zhang, Qi Xin, Lunyiu Nie, Chao Zhang, Yingqing Xu.
+**Yujia Liu**/*, Siyu Zha"*", Yuewen Zhang, Yanjin Wang, Yangming Zhang, Qi Xin, Lunyiu Nie, Chao Zhang, Yingqing Xu.
 - TLDR: A mobile application that leverages LLMs for generating dynamic, personalized persuasive content to mitigate problematic smartphone use for digital well-being. Effectiveness validated via a 5-week field trial with 25 participants, showing significant improvements in intervention acceptance (17.8-22.5% ↑) and reductions in smartphone usage frequency (12.1-14.4% ↓).
 </div>
 </div>
@@ -52,7 +52,7 @@ I'm now looking for 2024 summer research opportunities. A complete version of my
   
 [Mentigo: An Intelligent Agent for Mentoring Students in the Creative Problem Solving Process](https://yujia-l.github.io/pdfs/Mentigo.pdf)
 
-Siyu Zha*, **Yujia Liu***, Chengbo Zheng, Jiaqi Xu, Fuze Yu, Jiangtao Gong, Yingqing Xu.
+Siyu Zha'*', **Yujia Liu**\*, Chengbo Zheng, Jiaqi Xu, Fuze Yu, Jiangtao Gong, Yingqing Xu.
 - TLDR: A mobile application that leverages LLMs for generating dynamic, personalized persuasive content to mitigate problematic smartphone use for digital well-being. Effectiveness validated via a 5-week field trial with 25 participants, showing significant improvements in intervention acceptance (17.8-22.5% ↑) and reductions in smartphone usage frequency (12.1-14.4% ↓).
 </div>
 </div>
@@ -97,7 +97,7 @@ Tianyu Yu, Yang Liu, **Yujia Liu**, Qiuyu Lu, Teng Han, Haipeng Mi.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UbiComp'24 Workshop</div><img src='images/proj/<MoreThanShapes>.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UbiComp'24 Workshop</div><img src='images/proj/MoreThanShapes.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [More Than Shapes: Exploring the Tactile Parameters of Art Appreciation for the Visually Impaired](https://dl.acm.org/doi/pdf/10.1145/3675094.3678391)
@@ -107,15 +107,7 @@ MingYu Cui, Chao Yuan, **Yujia Liu**, Yingying Zheng.
 </div>
 </div>
 
-# 🗂️ Projects 
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/lego.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**3D LEGO Designs Generation and Structural Optimization with Generative Models**
-- TLDR: A 3D model generation system combining generative models, stability prediction, and optimization to repurpose unused LEGO bricks, fostering creativity and sustainability. Achieved up to a 42.7% increase in design diversity, a 13.9% increase in user engagement, and a 6.9% improvement in user satisfaction, demonstrating significant advances in interactive design and sustainability.
-</div>
-</div>
+# 🗂️ Other Projects 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/music_light.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
