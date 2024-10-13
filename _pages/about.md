@@ -33,7 +33,9 @@ I'm now looking for 2024 summer research opportunities. A complete version of my
 [3D-Mirrorcle: Bridging the Virtual and Real through Depth Alignment in Smart Mirror Systems](https://yujia-l.github.io/pdfs/3DMirrorcle.pdf)
 
 **Yujia Liu**, Qi Xin, Chenzhuo Xiang, Yu Zhang, Yingqing Xu.
-- TLDR: An innovative smart mirror system integrating AR with real-world reflections, addressing depth disparity via a lenticular grating setup, with real-time image adjustment and position adaptation algorithms to align AR content with the user's depth perception and enhance interaction realism. Demonstrated through a makeup application prototype with significant improvements in accuracy (11.1% ↑), task completion time (47.9% ↓), and user satisfaction (44.4% ↑) compared to the existing systems.
+- As the project leader of this startup project, we initially aimed to create a smart mirror for makeup guidance but encountered a depth mismatch issue with contour displays. To resolve this, we developed 3DMirrorcle system, implementing lenticular grating for a 3D display and developed algorithms for mirror reflection alignment and lenticular grating segmentation to align AR content with users' reflections. Beyond makeup, this system was tested in various user studies, showing superior performance across different motion ranges compared to existing solutions. 
+This work has been submitted to ACM CHI’25, with me being the first author.
+
 </div>
 </div>
 
@@ -43,7 +45,8 @@ I'm now looking for 2024 summer research opportunities. A complete version of my
 [BrickSmart: Leveraging Generative AI to Support Children's Spatial Language Learning in Family Block Play](https://yujia-l.github.io/pdfs/BrickSmart.pdf)
 
 **Yujia Liu**/*, Siyu Zha"*", Yuewen Zhang, Yanjin Wang, Yangming Zhang, Qi Xin, Lunyiu Nie, Chao Zhang, Yingqing Xu.
-- TLDR: A mobile application that leverages LLMs for generating dynamic, personalized persuasive content to mitigate problematic smartphone use for digital well-being. Effectiveness validated via a 5-week field trial with 25 participants, showing significant improvements in intervention acceptance (17.8-22.5% ↑) and reductions in smartphone usage frequency (12.1-14.4% ↓).
+- This is also a startup project I led, initially focusing on using generative models to create personalized LEGO instructions, promoting creativity and eco-friendly reuse of LEGO bricks. We later expanded the app to support children's spatial language learning in family block play using LLM and Gen-AI technology. A lab experiment with 24 parent-child pairs (children aged 6-8) demonstrated its effectiveness in enhancing spatial language skills. 
+This work has been submitted to ACM CHI’25, with me being the first author.
 </div>
 </div>
 
@@ -53,7 +56,8 @@ I'm now looking for 2024 summer research opportunities. A complete version of my
 [Mentigo: An Intelligent Agent for Mentoring Students in the Creative Problem Solving Process](https://yujia-l.github.io/pdfs/Mentigo.pdf)
 
 Siyu Zha'*', **Yujia Liu**\*, Chengbo Zheng, Jiaqi Xu, Fuze Yu, Jiangtao Gong, Yingqing Xu.
-- TLDR: A mobile application that leverages LLMs for generating dynamic, personalized persuasive content to mitigate problematic smartphone use for digital well-being. Effectiveness validated via a 5-week field trial with 25 participants, showing significant improvements in intervention acceptance (17.8-22.5% ↑) and reductions in smartphone usage frequency (12.1-14.4% ↓).
+- Co-led by Siyu Zha and me, this project aims to use LLMs to support education. We developed Mentigo, an interactive agent designed to guide middle school students through the creative problem-solving (CPS) process. The system is built on a dataset of real classroom interactions and an agentic workflow. Its effectiveness was tested through a comparative experiment with 12 students and reviewed by five expert teachers, showing significant improvements in student engagement and creative outcomes. 
+This work has been submitted to ACM CHI’25, with me being the co-first author.
 </div>
 </div>
 
@@ -63,7 +67,8 @@ Siyu Zha'*', **Yujia Liu**\*, Chengbo Zheng, Jiaqi Xu, Fuze Yu, Jiangtao Gong, Y
 [Xstrings: 3D printing cable-driven mechanism for actuation, deformation, and manipulation](https://yujia-l.github.io/pdfs/Xstrings.pdf)
 
 Jiaji Li, Shuyue Feng, Maxine Alexandra Perroni-Scharf, **Yujia Liu**, Emily Guan, Guanyun Wang, Stefanie Mueller. 
-- TLDR: A mobile application that leverages LLMs for generating dynamic, personalized persuasive content to mitigate problematic smartphone use for digital well-being. Effectiveness validated via a 5-week field trial with 25 participants, showing significant improvements in intervention acceptance (17.8-22.5% ↑) and reductions in smartphone usage frequency (12.1-14.4% ↓).
+- We developed the Xstrings method to 3D print cable-driven mechanisms in a single process, enabling four types of interactions: bend, twist, coil, and compress, activated by applying force to the cables. We investigated the impact of various printing parameters on maximum tensile strain and the repeatability of interactions without cable failure. Application examples include manipulable gripping, bionic robot manufacturing, and dynamic prototyping.
+This work has been submitted to ACM CHI’25. My work included mathematical derivation, test printing parameters, engineering the prototype, and writing parts of the paper.
 </div>
 </div>
 
@@ -73,7 +78,8 @@ Jiaji Li, Shuyue Feng, Maxine Alexandra Perroni-Scharf, **Yujia Liu**, Emily Gua
 [MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention](https://dl.acm.org/doi/pdf/10.1145/3613904.3642790)
 
 Ruolan Wu, Chun Yu, Xiaole Pan, **Yujia Liu**, Ningning Zhang, Yue Fu, Yuhan Wang, Zhi Zheng, Li Chen, Qi-aolei Jiang, Xuhai Xu, Yuanchun Shi.
-- TLDR: A mobile application that leverages LLMs for generating dynamic, personalized persuasive content to mitigate problematic smartphone use for digital well-being. Effectiveness validated via a 5-week field trial with 25 participants, showing significant improvements in intervention acceptance (17.8-22.5% ↑) and reductions in smartphone usage frequency (12.1-14.4% ↓).
+- In this project, we developed MindShift, a mobile app that uses LLMs to create dynamic, personalized content aimed at reducing problematic smartphone use, adapting to user context and mental states. Wizard-of-Oz and interview studies were conducted to identify key mental states, and these insights were validated in a 5-week field trial with 25 participants, showing significant improvements in smartphone usage patterns.
+This work was published on ACM CHI’24. My work included conducting the Wizard-of-Oz studies and the field trial, data analyzing, and illustrating the findings.
 </div>
 </div>
 
@@ -83,7 +89,8 @@ Ruolan Wu, Chun Yu, Xiaole Pan, **Yujia Liu**, Ningning Zhang, Yue Fu, Yuhan Wan
 [KeyFlow: Acoustic Motion Sensing for Cursor Control on Any Keyboard](https://yujia-l.github.io/pdfs/KeyFlow.pdf)
 
 **Yujia Liu***, Qihang Shan*, Zhihao Yao, Qiuyu Lu.
-- TLDR: A mobile application that leverages LLMs for generating dynamic, personalized persuasive content to mitigate problematic smartphone use for digital well-being. Effectiveness validated via a 5-week field trial with 25 participants, showing significant improvements in intervention acceptance (17.8-22.5% ↑) and reductions in smartphone usage frequency (12.1-14.4% ↓).
+- We developed KeyFlow, a system that integrates mouse functionality into keyboards using machine learning, enabling users to control the cursor by gliding their fingers across the surface without pressing keys. Our research shows that KeyFlow reduces hand movement by 78.3%, significantly enhancing typing efficiency.
+This work has been published on ACM UIST’24 Poster. My work included organizing and writing the paper.
 </div>
 </div>
 
@@ -93,7 +100,8 @@ Ruolan Wu, Chun Yu, Xiaole Pan, **Yujia Liu**, Ningning Zhang, Yue Fu, Yuhan Wan
 [FlexEOP: Flexible Shape-changing Actuator using Embedded Electroosmotic Pumps](https://yujia-l.github.io/pdfs/FlexEOP.pdf)
 
 Tianyu Yu, Yang Liu, **Yujia Liu**, Qiuyu Lu, Teng Han, Haipeng Mi.
-- TLDR: A mobile application that leverages LLMs for generating dynamic, personalized persuasive content to mitigate problematic smartphone use for digital well-being. Effectiveness validated via a 5-week field trial with 25 participants, showing significant improvements in intervention acceptance (17.8-22.5% ↑) and reductions in smartphone usage frequency (12.1-14.4% ↓).
+- We developed FlexEOP, a method for creating fully flexible electroosmotic pumps, enabling adaptable, self-contained shape-changing actuators. FlexEOP’s versatility is demonstrated in applications such as flexible displays, panels, curved surfaces, and soft robotic fibers.
+This work has been published on ACM UIST’24 Demo. My work contributions include experimental design and testing, modeling and rendering, and writing parts of the paper.
 </div>
 </div>
 
@@ -103,33 +111,55 @@ Tianyu Yu, Yang Liu, **Yujia Liu**, Qiuyu Lu, Teng Han, Haipeng Mi.
 [More Than Shapes: Exploring the Tactile Parameters of Art Appreciation for the Visually Impaired](https://dl.acm.org/doi/pdf/10.1145/3675094.3678391)
 
 MingYu Cui, Chao Yuan, **Yujia Liu**, Yingying Zheng.
-- TLDR: A mobile application that leverages LLMs for generating dynamic, personalized persuasive content to mitigate problematic smartphone use for digital well-being. Effectiveness validated via a 5-week field trial with 25 participants, showing significant improvements in intervention acceptance (17.8-22.5% ↑) and reductions in smartphone usage frequency (12.1-14.4% ↓).
+- We enhanced art education for the visually impaired by focusing on Impressionist paintings through workshops. Experts translated key painting elements (layout, content, color, lighting, brushwork) into tactile forms, using clay modeling to help participants experience, analyze, and create art, enriching their engagement.
+This work has been published on ACM UbiComp’24 Workshop. My work was method development, paper writing.
 </div>
 </div>
 
 # 🗂️ Other Projects 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/music_light.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Adaptive Music and Lighting Systems for Emotional Well-being**
-- TLDR: A smart home system that dynamically adjusts music and lighting to nurture inhabitants' emotional well-being, leveraging environmental and color psychology with MER. Capable of responding to and anticipating user emotions and preferences, with a 22.1% enhancement in satisfaction according to a user experience study.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/smart_editing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Automated Video Editing with Semantic Analysis and Aesthetic Evaluation**
-- TLDR: An intelligent video editing framework that integrates video semantic analysis and aesthetic evaluation to com-bine AI with user-centered designs for automating video production tasks. Achieved a 62.5% reduction in editing time, demonstrating the frame-work's effectiveness in improving editing efficiency and output quality.
+- I led this industry-academic collaboration project with another team member, Qianyu Liang. We developed an intelligent video editing framework that transforms photos and videos from users' smartphones into captivating highlight reels. Using film editing principles, we crafted coherent narratives, emphasized key moments, and ensured seamless harmony between music and visuals.
+My work was to establish the correspondence between music and visuals, aligning musical elements with the film’s style, matching music changes with editing techniques, identifying musical climaxes and video key moments, creating rhythm and flow, timing cuts and transitions.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/music_light.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Adaptive Music and Lighting Systems for Emotional Well-being**
+- This is an industry-academic collaboration project, and I was the research team leader. We focused on developing a smart home system that dynamically adjusts music and lighting to enhance the living experience. To achieve harmony, we analyzed the relationship between music elements, light parameters, and their emotional impact. Based on this analysis, we developed a framework that aligns music-emotion-light and implemented a demo using the Philips Hue system.
+My work in this project was conducting literature reviews, creating the music-emotion-light correspondence framework, and realizing the demo.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/phone_color.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Adaptive Image Color Enhancement Across Diverse Displays**
-- TLDR: Collected color preferences in digital media via a comprehensive user survey with 89 participants and an expert interview with 24 photographers to identify color preferences across image types & user demographics. Developed a system based on DeepLPF for adaptive image color enhancement under mobile photography scenar-ios, significantly enhanced user satisfaction (12% ↑) in an offline evaluation with 89 participants.
+**Design of Tactile Vibration Experience for Smartphones**
+- This industry-academic collaboration project aimed to study vibration experiences across different smartphones. We developed a framework that maps task urgency, importance, and metaphorical meaning to vibration timing, duration, intensity, frequency, and variability, based on a user study comparing smartphones from six brands.
+My work involved conducting literature research, developing the framework, and designing the user study.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/phone_color.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**User’s Color Preferences of Pictures Across Diverse Displays**
+- This industry-academic collaboration project involved six expert interviews and a user study with 89 participants to identify color preferences for various image types across different smartphone hardware. We developed a framework to optimize picture color on specific smartphone hardware for improved aesthetics and user experience. 
+My work included designing and conducting the user study, adjusting images, and analyzing the data.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/phone_color.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Ferrofluid Speaker Design Based on Emotion-Mapped Musical Elements**
+- This was my undergraduate graduation project, where I developed a music-emotion-visual motion framework and created a ferrofluid speaker that synchronizes with music, displaying linear, rotational, and pulsating motions in response to the audio. [Video]
+
 </div>
 </div>
 
