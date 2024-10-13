@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Yujia Liu, currently a 3rd-year M.A. student in Information Art and Design at Tsinghua University's Future Lab, advised by Prof. [Yingqing Xu](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/Human_Computer_Interaction__and_User_Experience/Resercher/Yingqing_Xu.htm) and Prof. [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/). I am now seeking PhD opportunities for Fall 2025.
+I'm Yujia Liu, currently a 3rd-year M.A. student in Information Art and Design at Tsinghua University's Future Lab, advised by Prof. [Yingqing Xu](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/Human_Computer_Interaction__and_User_Experience/Resercher/Yingqing_Xu.htm) and Prof. [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/). **I am now seeking PhD opportunities for Fall 2025.**
 
 With a multidisciplinary background in Computer Science, Automation Engineering, and Design, my research focuses on developing technologies that are not only efficient and functional but also accessible and engaging for users. My recent work spans several areas, and I am currently exploring three potential research directions: Human-AI interaction, hardware engineering, and fabrication—or their intersection.
 
