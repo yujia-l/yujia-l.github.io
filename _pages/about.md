@@ -136,7 +136,7 @@ My work in this project was conducting literature reviews, creating the music-em
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/phone_color.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/Vibration.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Design of Tactile Vibration Experience for Smartphones**
