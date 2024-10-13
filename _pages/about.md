@@ -144,7 +144,7 @@ My work involved conducting literature research, developing the framework, and d
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/Color1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/Color1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **User’s Color Preferences of Pictures Across Diverse Displays**
