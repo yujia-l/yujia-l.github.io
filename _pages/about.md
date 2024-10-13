@@ -156,8 +156,8 @@ My work included designing and conducting the user study, adjusting images, and 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/Color1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Ferrofluid Speaker Design Based on Emotion-Mapped Musical Elements**
-- This was my undergraduate graduation project, where I developed a music-emotion-visual motion framework and created a ferrofluid speaker that synchronizes with music, displaying linear, rotational, and pulsating motions in response to the audio. [Video]
+[**Ferrofluid Speaker Design Based on Emotion-Mapped Musical Elements**](https://drive.google.com/file/d/1jVUglUCcuspq0HQMu4pqdy2FeszfBXGU/view?usp=drive_link)
+- This was my undergraduate graduation project, whereI designed and built a ferrofluid speaker that visually responds to music. The ferrofluid inside the speaker moves in sync with the audio, displaying a range of motions, including linear, rotational, and pulsating patterns. These movements dynamically change with the rhythm and sound of the music.
 
 </div>
 </div>
@@ -174,4 +174,6 @@ My work included designing and conducting the user study, adjusting images, and 
 - *2020.06 - 2020.08*, Algorithm Engineer Intern @ Beijing Ewaybot Technology, Robot Navigation Group.
 
 # 🧘‍♀️ Hobbies
-In my spare time, I enjoy practicing yoga, zazen meditation, photography, and knitting. I’m also a vlogger & content creator on [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5ad8bc90e8ac2b398c6ac4a1) with ~100k subscribers. 
+In my spare time, I enjoy practicing yoga, zazen meditation, photography, and knitting. 
+
+I’m also a vlogger & content creator on [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5ad8bc90e8ac2b398c6ac4a1) with ~100k subscribers. 
