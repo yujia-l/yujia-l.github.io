@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Yujia Liu, an HCI student researcher passionate about Human-AI Interaction and Fabrication. Currently, I'm pursuing my M.A. in Information Art and Design at the Future Lab of Tsinghua University, under the advisory of Prof. [Yingqing Xu](https://thfl.tsinghua.edu.cn/en/yjdw/yjtd/xyq/index.htm) and Prof. [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/). 
+I'm Yujia Liu, an HCI student researcher passionate about Human-AI Interaction and Fabrication. Currently, I'm pursuing my M.A. in Information Art and Design at the Future Lab of Tsinghua University, under the advisory of Prof. [Yingqing Xu](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/Human_Computer_Interaction__and_User_Experience/Resercher/Yingqing_Xu.htm) and Prof. [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/). 
 
 My academic journey began with undergraduate degrees in Automation Engineering and Industrial Design, laying a dual foundation that marries technical precision with aesthetic innovation. My work embodies this cross-disciplinary fusion, particularly evident in projects ranging from AR-enhanced smart mirrors, LLM-based digital well-being management, to 3D LEGO design generations. Each project reflects my commitment to leveraging a blend of engineering precision and design sensitivity, aiming to create technologies that are not only efficient and functional but also accessible and engaging for users.
 
 In spare time I am also a vlogger & content creator on [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5ad8bc90e8ac2b398c6ac4a1) with ~100k subscribers. 
 
-I'm now looking for 2024 summer research opportunities. A complete version of my CV is available [HERE](https://yujia-l.github.io/pdfs/cv.pdf).
+I'm now looking for 2024 summer research opportunities. A complete version of my CV is available [HERE](https://yujia-l.github.io/pdfs/CV.pdf).
 
 # 📝 Publications 
 
