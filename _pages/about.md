@@ -21,7 +21,7 @@ I'm Yujia Liu, currently a 3rd-year M.A. student in Information Art and Design a
 
 With a multidisciplinary background in Computer Science, Automation Engineering, and Design, my research focuses on developing technologies that are not only efficient and functional but also accessible and engaging for users. My recent work spans several areas, and I am currently exploring three potential research directions: Human-AI interaction, hardware engineering, and fabrication—or their intersection.
 
-View my [CV](https://yujia-l.github.io/pdfs/cv.pdf).
+View my [CV](https://yujia-l.github.io/pdfs/CV.pdf).
 
 
 # 📝 Publications 
@@ -85,7 +85,7 @@ This work was published on ACM CHI’24. My work included conducting the Wizard-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST'24 Poster</div><img src='images/proj/KeyFlow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[KeyFlow: Acoustic Motion Sensing for Cursor Control on Any Keyboard](https://yujia-l.github.io/pdfs/KeyFlow.pdf)
+[KeyFlow: Acoustic Motion Sensing for Cursor Control on Any Keyboard](https://dl.acm.org/doi/pdf/10.1145/3672539.3686348)
 
 **Yujia Liu***, Qihang Shan*, Zhihao Yao, Qiuyu Lu.
 - We developed KeyFlow, a system that integrates mouse functionality into keyboards using machine learning, enabling users to control the cursor by gliding their fingers across the surface without pressing keys. Our research shows that KeyFlow reduces hand movement by 78.3%, significantly enhancing typing efficiency.
@@ -96,7 +96,7 @@ This work has been published on ACM UIST’24 Poster. My work included organizin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST'24 Demo</div><img src='images/proj/FlexEOP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FlexEOP: Flexible Shape-changing Actuator using Embedded Electroosmotic Pumps](https://yujia-l.github.io/pdfs/FlexEOP.pdf)
+[FlexEOP: Flexible Shape-changing Actuator using Embedded Electroosmotic Pumps](https://dl.acm.org/doi/pdf/10.1145/3672539.3686785)
 
 Tianyu Yu, Yang Liu, **Yujia Liu**, Qiuyu Lu, Teng Han, Haipeng Mi.
 - We developed FlexEOP, a method for creating fully flexible electroosmotic pumps, enabling adaptable, self-contained shape-changing actuators. FlexEOP’s versatility is demonstrated in applications such as flexible displays, panels, curved surfaces, and soft robotic fibers.
