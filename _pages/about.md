@@ -43,7 +43,7 @@ This work has been submitted to ACM CHI’25, with me being the first author.
   
 [BrickSmart: Leveraging Generative AI to Support Children's Spatial Language Learning in Family Block Play](https://yujia-l.github.io/pdfs/BrickSmart.pdf)
 
-**Yujia Liu**/*, Siyu Zha"*", Yuewen Zhang, Yanjin Wang, Yangming Zhang, Qi Xin, Lunyiu Nie, Chao Zhang, Yingqing Xu.
+**Yujia Liu**\*, Siyu Zha\*, Yuewen Zhang, Yanjin Wang, Yangming Zhang, Qi Xin, Lunyiu Nie, Chao Zhang, Yingqing Xu.
 - This is also a startup project I led, initially focusing on using generative models to create personalized LEGO instructions, promoting creativity and eco-friendly reuse of LEGO bricks. We later expanded the app to support children's spatial language learning in family block play using LLM and Gen-AI technology. A lab experiment with 24 parent-child pairs (children aged 6-8) demonstrated its effectiveness in enhancing spatial language skills. 
 This work has been submitted to ACM CHI’25, with me being the first author.
 </div>
@@ -54,7 +54,7 @@ This work has been submitted to ACM CHI’25, with me being the first author.
   
 [Mentigo: An Intelligent Agent for Mentoring Students in the Creative Problem Solving Process](https://yujia-l.github.io/pdfs/Mentigo.pdf)
 
-Siyu Zha'*', **Yujia Liu**\*, Chengbo Zheng, Jiaqi Xu, Fuze Yu, Jiangtao Gong, Yingqing Xu.
+Siyu Zha\*, **Yujia Liu**\*, Chengbo Zheng, Jiaqi Xu, Fuze Yu, Jiangtao Gong, Yingqing Xu.
 - Co-led by Siyu Zha and me, this project aims to use LLMs to support education. We developed Mentigo, an interactive agent designed to guide middle school students through the creative problem-solving (CPS) process. The system is built on a dataset of real classroom interactions and an agentic workflow. Its effectiveness was tested through a comparative experiment with 12 students and reviewed by five expert teachers, showing significant improvements in student engagement and creative outcomes. 
 This work has been submitted to ACM CHI’25, with me being the co-first author.
 </div>
