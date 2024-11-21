@@ -23,6 +23,7 @@ With a multidisciplinary background in Computer Science, Automation Engineering,
 
 View my [CV](https://yujia-l.github.io/pdfs/CV.pdf).
 
+<img src='images/proj/interests.png' alt="sym" width="100%">
 
 # 📝 Publications 
 
