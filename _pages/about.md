@@ -161,7 +161,7 @@ My work included designing and conducting the user study, adjusting images, and 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/Speaker.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Ferrofluid Speaker Design Based on Emotion-Mapped Musical Elements**](https://drive.google.com/file/d/1jVUglUCcuspq0HQMu4pqdy2FeszfBXGU/view?usp=drive_link)
+**Ferrofluid Speaker Design Based on Emotion-Mapped Musical Elements** [Video](https://drive.google.com/file/d/1jVUglUCcuspq0HQMu4pqdy2FeszfBXGU/view?usp=drive_link)
 - This was my undergraduate graduation project, whereI designed and built a ferrofluid speaker that visually responds to music. The ferrofluid inside the speaker moves in sync with the audio, displaying a range of motions, including linear, rotational, and pulsating patterns. These movements dynamically change with the rhythm and sound of the music.
 
 </div>
