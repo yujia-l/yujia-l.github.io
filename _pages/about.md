@@ -26,7 +26,7 @@ With my background in Electrical Engineering and Computer Science (EECS), Mechan
 View my [CV](https://yujia-l.github.io/pdfs/CV.pdf).
 
 <center>
-<img src='images/proj/interests.png' alt="sym" width="70%">
+<img src='images/proj/interests.png' alt="sym" width="80%">
 </center>
 
 # 📝 Publications 
