@@ -26,22 +26,11 @@ With my background in Electrical Engineering and Computer Science (EECS), Mechan
 View my [CV](https://yujia-l.github.io/pdfs/CV.pdf).
 
 <center>
-<img src='images/proj/interests.png' alt="sym" width="80%">
+<img src='images/proj/interests.pdf' alt="sym" width="80%">
 </center>
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to CHI'25</div><img src='images/proj/3DMirrorcle.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[3D-Mirrorcle: Bridging the Virtual and Real through Depth Alignment in Smart Mirror Systems](https://yujia-l.github.io/pdfs/3DMirrorcle.pdf)
-
-**Yujia Liu**, Qi Xin, Chenzhuo Xiang, Yu Zhang, Yingqing Xu.
-- As the project leader of this startup project, we initially aimed to create a smart mirror for makeup guidance but encountered a depth mismatch issue with contour displays. To resolve this, we developed 3DMirrorcle system, implementing lenticular grating for a 3D display and developed algorithms for mirror reflection alignment and lenticular grating segmentation to align AR content with users' reflections. Beyond makeup, this system was tested in various user studies, showing superior performance across different motion ranges compared to existing solutions. 
-This work has been submitted to ACM CHI’25, with me being the first author.
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to CHI'25</div><img src='images/proj/BrickSmart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -62,6 +51,18 @@ This work has been submitted to ACM CHI’25, with me being the first author.
 Siyu Zha\*, **Yujia Liu**\*, Chengbo Zheng, Jiaqi Xu, Fuze Yu, Jiangtao Gong, Yingqing Xu.
 - Co-led by Siyu Zha and me, this project aims to use LLMs to support education. We developed Mentigo, an interactive agent designed to guide middle school students through the creative problem-solving (CPS) process. The system is built on a dataset of real classroom interactions and an agentic workflow. Its effectiveness was tested through a comparative experiment with 12 students and reviewed by five expert teachers, showing significant improvements in student engagement and creative outcomes. 
 This work has been submitted to ACM CHI’25, with me being the co-first author.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to CHI'25</div><img src='images/proj/3DMirrorcle.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[3D-Mirrorcle: Bridging the Virtual and Real through Depth Alignment in Smart Mirror Systems](https://yujia-l.github.io/pdfs/3DMirrorcle.pdf)
+
+**Yujia Liu**, Qi Xin, Chenzhuo Xiang, Yu Zhang, Yingqing Xu.
+- As the project leader of this startup project, we initially aimed to create a smart mirror for makeup guidance but encountered a depth mismatch issue with contour displays. To resolve this, we developed 3DMirrorcle system, implementing lenticular grating for a 3D display and developed algorithms for mirror reflection alignment and lenticular grating segmentation to align AR content with users' reflections. Beyond makeup, this system was tested in various user studies, showing superior performance across different motion ranges compared to existing solutions. 
+This work has been submitted to ACM CHI’25, with me being the first author.
+
 </div>
 </div>
 
