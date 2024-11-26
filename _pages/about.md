@@ -37,7 +37,7 @@ View my [CV](https://yujia-l.github.io/pdfs/CV.pdf).
   
 [BrickSmart: Leveraging Generative AI to Support Children's Spatial Language Learning in Family Block Play](https://yujia-l.github.io/pdfs/BrickSmart.pdf)
 
-<u>**Yujia Liu**\*</u>, Siyu Zha\*, Yuewen Zhang, Yanjin Wang, Yangming Zhang, Qi Xin, Lunyiu Nie, Chao Zhang, Yingqing Xu.
+**<u>Yujia Liu*</u>**, Siyu Zha\*, Yuewen Zhang, Yanjin Wang, Yangming Zhang, Qi Xin, Lunyiu Nie, Chao Zhang, Yingqing Xu.
 - This is also a startup project I led, initially focusing on using generative models to create personalized LEGO instructions, promoting creativity and eco-friendly reuse of LEGO bricks. We later expanded the app to support children's spatial language learning in family block play using LLM and Gen-AI technology. A lab experiment with 24 parent-child pairs (children aged 6-8) demonstrated its effectiveness in enhancing spatial language skills. 
 This work has been submitted to ACM CHI’25, with me being the first author.
 </div>
@@ -48,7 +48,7 @@ This work has been submitted to ACM CHI’25, with me being the first author.
   
 [Mentigo: An Intelligent Agent for Mentoring Students in the Creative Problem Solving Process](https://yujia-l.github.io/pdfs/Mentigo.pdf)
 
-Siyu Zha\*, <u>**Yujia Liu**\*</u>, Chengbo Zheng, Jiaqi Xu, Fuze Yu, Jiangtao Gong, Yingqing Xu.
+Siyu Zha\*, **<u>Yujia Liu*</u>**, Chengbo Zheng, Jiaqi Xu, Fuze Yu, Jiangtao Gong, Yingqing Xu.
 - Co-led by Siyu Zha and me, this project aims to use LLMs to support education. We developed Mentigo, an interactive agent designed to guide middle school students through the creative problem-solving (CPS) process. The system is built on a dataset of real classroom interactions and an agentic workflow. Its effectiveness was tested through a comparative experiment with 12 students and reviewed by five expert teachers, showing significant improvements in student engagement and creative outcomes. 
 This work has been submitted to ACM CHI’25, with me being the co-first author.
 </div>
@@ -59,7 +59,7 @@ This work has been submitted to ACM CHI’25, with me being the co-first author.
 
 [3D-Mirrorcle: Bridging the Virtual and Real through Depth Alignment in Smart Mirror Systems](https://yujia-l.github.io/pdfs/3DMirrorcle.pdf)
 
-<u>**Yujia Liu**</u>, Qi Xin, Chenzhuo Xiang, Yu Zhang, Yingqing Xu.
+**<u>Yujia Liu</u>**, Qi Xin, Chenzhuo Xiang, Yu Zhang, Yingqing Xu.
 - As the project leader of this startup project, we initially aimed to create a smart mirror for makeup guidance but encountered a depth mismatch issue with contour displays. To resolve this, we developed 3DMirrorcle system, implementing lenticular grating for a 3D display and developed algorithms for mirror reflection alignment and lenticular grating segmentation to align AR content with users' reflections. Beyond makeup, this system was tested in various user studies, showing superior performance across different motion ranges compared to existing solutions. 
 This work has been submitted to ACM CHI’25, with me being the first author.
 
@@ -71,7 +71,7 @@ This work has been submitted to ACM CHI’25, with me being the first author.
   
 [Xstrings: 3D printing cable-driven mechanism for actuation, deformation, and manipulation](https://yujia-l.github.io/pdfs/Xstrings.pdf)
 
-Jiaji Li, Shuyue Feng, Maxine Alexandra Perroni-Scharf, <u>**Yujia Liu**</u>, Emily Guan, Guanyun Wang, Stefanie Mueller. 
+Jiaji Li, Shuyue Feng, Maxine Alexandra Perroni-Scharf, **<u>Yujia Liu</u>**, Emily Guan, Guanyun Wang, Stefanie Mueller. 
 - We developed the Xstrings method to 3D print cable-driven mechanisms in a single process, enabling four types of interactions: bend, twist, coil, and compress, activated by applying force to the cables. We investigated the impact of various printing parameters on maximum tensile strain and the repeatability of interactions without cable failure. Application examples include manipulable gripping, bionic robot manufacturing, and dynamic prototyping.
 This work has been submitted to ACM CHI’25. My work included mathematical derivation, test printing parameters, engineering the prototype, and writing parts of the paper.
 </div>
@@ -82,7 +82,7 @@ This work has been submitted to ACM CHI’25. My work included mathematical deri
   
 [MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention](https://dl.acm.org/doi/pdf/10.1145/3613904.3642790)
 
-Ruolan Wu, Chun Yu, Xiaole Pan, <u>**Yujia Liu**</u>, Ningning Zhang, Yue Fu, Yuhan Wang, Zhi Zheng, Li Chen, Qi-aolei Jiang, Xuhai Xu, Yuanchun Shi.
+Ruolan Wu, Chun Yu, Xiaole Pan, **<u>Yujia Liu</u>**, Ningning Zhang, Yue Fu, Yuhan Wang, Zhi Zheng, Li Chen, Qi-aolei Jiang, Xuhai Xu, Yuanchun Shi.
 - In this project, we developed MindShift, a mobile app that uses LLMs to create dynamic, personalized content aimed at reducing problematic smartphone use, adapting to user context and mental states. Wizard-of-Oz and interview studies were conducted to identify key mental states, and these insights were validated in a 5-week field trial with 25 participants, showing significant improvements in smartphone usage patterns.
 This work was published on ACM CHI’24. My work included conducting the Wizard-of-Oz studies and the field trial, data analyzing, and illustrating the findings.
 </div>
@@ -93,7 +93,7 @@ This work was published on ACM CHI’24. My work included conducting the Wizard-
 
 [KeyFlow: Acoustic Motion Sensing for Cursor Control on Any Keyboard](https://dl.acm.org/doi/pdf/10.1145/3672539.3686348)
 
-<u>**Yujia Liu**\*</u>, Qihang Shan*, Zhihao Yao, Qiuyu Lu.
+**<u>Yujia Liu*</u>**, Qihang Shan*, Zhihao Yao, Qiuyu Lu.
 - We developed KeyFlow, a system that integrates mouse functionality into keyboards using machine learning, enabling users to control the cursor by gliding their fingers across the surface without pressing keys. Our research shows that KeyFlow reduces hand movement by 78.3%, significantly enhancing typing efficiency.
 This work has been published on ACM UIST’24 Poster. My work included organizing and writing the paper.
 </div>
@@ -104,7 +104,7 @@ This work has been published on ACM UIST’24 Poster. My work included organizin
 
 [FlexEOP: Flexible Shape-changing Actuator using Embedded Electroosmotic Pumps](https://dl.acm.org/doi/pdf/10.1145/3672539.3686785)
 
-Tianyu Yu, Yang Liu, <u>**Yujia Liu**</u>, Qiuyu Lu, Teng Han, Haipeng Mi.
+Tianyu Yu, Yang Liu, **<u>Yujia Liu</u>**, Qiuyu Lu, Teng Han, Haipeng Mi.
 - We developed FlexEOP, a method for creating fully flexible electroosmotic pumps, enabling adaptable, self-contained shape-changing actuators. FlexEOP’s versatility is demonstrated in applications such as flexible displays, panels, curved surfaces, and soft robotic fibers.
 This work has been published on ACM UIST’24 Demo. My work contributions include experimental design and testing, modeling and rendering, and writing parts of the paper.
 </div>
@@ -115,7 +115,7 @@ This work has been published on ACM UIST’24 Demo. My work contributions includ
 
 [More Than Shapes: Exploring the Tactile Parameters of Art Appreciation for the Visually Impaired](https://dl.acm.org/doi/pdf/10.1145/3675094.3678391)
 
-MingYu Cui, Chao Yuan, <u>**Yujia Liu**</u>, Yingying Zheng.
+MingYu Cui, Chao Yuan, **<u>Yujia Liu</u>**, Yingying Zheng.
 - We enhanced art education for the visually impaired by focusing on Impressionist paintings through workshops. Experts translated key painting elements (layout, content, color, lighting, brushwork) into tactile forms, using clay modeling to help participants experience, analyze, and create art, enriching their engagement.
 This work has been published on ACM UbiComp’24 Workshop. My work was method development, paper writing.
 </div>
