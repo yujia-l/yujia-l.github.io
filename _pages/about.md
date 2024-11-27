@@ -59,7 +59,7 @@ This work has been submitted to ACM CHI’25, with me being the co-first author.
 
 [3D-Mirrorcle: Bridging the Virtual and Real through Depth Alignment in Smart Mirror Systems](https://yujia-l.github.io/pdfs/3DMirrorcle.pdf)
 
-**<u>Yujia Liu</u>**, Qi Xin, Chenzhuo Xiang, Yu Zhang, Yingqing Xu.
+**<u>Yujia Liu</u>**, Qi Xin, Chenzhuo Xiang, Yu Zhang, Lunyiu Nie, Xuhai Xu, Yingqing Xu.
 - As the project leader of this startup project, we initially aimed to create a smart mirror for makeup guidance but encountered a depth mismatch issue with contour displays. To resolve this, we developed 3DMirrorcle system, implementing lenticular grating for a 3D display and developed algorithms for mirror reflection alignment and lenticular grating segmentation to align AR content with users' reflections. Beyond makeup, this system was tested in various user studies, showing superior performance across different motion ranges compared to existing solutions. 
 This work has been submitted to ACM CHI’25, with me being the first author.
 
