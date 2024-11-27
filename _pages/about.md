@@ -37,7 +37,7 @@ View my [CV](https://yujia-l.github.io/pdfs/CV.pdf).
   
 [BrickSmart: Leveraging Generative AI to Support Children's Spatial Language Learning in Family Block Play](https://yujia-l.github.io/pdfs/BrickSmart.pdf)
 
-**<u>Yujia Liu</u>**/*, Siyu Zha\*, Yuewen Zhang, Yanjin Wang, Yangming Zhang, Qi Xin, Lunyiu Nie, Chao Zhang, Yingqing Xu.
+**<u>Yujia Liu</u>**\*, Siyu Zha\*, Yuewen Zhang, Yanjin Wang, Yangming Zhang, Qi Xin, Lunyiu Nie, Chao Zhang, Yingqing Xu.
 - This is also a startup project I led, initially focusing on using generative models to create personalized LEGO instructions, promoting creativity and eco-friendly reuse of LEGO bricks. We later expanded the app to support children's spatial language learning in family block play using LLM and Gen-AI technology. A lab experiment with 24 parent-child pairs (children aged 6-8) demonstrated its effectiveness in enhancing spatial language skills. 
 This work has been submitted to ACM CHI’25, with me being the first author.
 </div>
@@ -48,7 +48,7 @@ This work has been submitted to ACM CHI’25, with me being the first author.
   
 [Mentigo: An Intelligent Agent for Mentoring Students in the Creative Problem Solving Process](https://yujia-l.github.io/pdfs/Mentigo.pdf)
 
-Siyu Zha\*, **<u>Yujia Liu</u>**/*, Chengbo Zheng, Jiaqi Xu, Fuze Yu, Jiangtao Gong, Yingqing Xu.
+Siyu Zha\*, **<u>Yujia Liu</u>**\*, Chengbo Zheng, Jiaqi Xu, Fuze Yu, Jiangtao Gong, Yingqing Xu.
 - Co-led by Siyu Zha and me, this project aims to use LLMs to support education. We developed Mentigo, an interactive agent designed to guide middle school students through the creative problem-solving (CPS) process. The system is built on a dataset of real classroom interactions and an agentic workflow. Its effectiveness was tested through a comparative experiment with 12 students and reviewed by five expert teachers, showing significant improvements in student engagement and creative outcomes. 
 This work has been submitted to ACM CHI’25, with me being the co-first author.
 </div>
@@ -93,7 +93,7 @@ This work was published on ACM CHI’24. My work included conducting the Wizard-
 
 [KeyFlow: Acoustic Motion Sensing for Cursor Control on Any Keyboard](https://dl.acm.org/doi/pdf/10.1145/3672539.3686348)
 
-**<u>Yujia Liu</u>**/*, Qihang Shan*, Zhihao Yao, Qiuyu Lu.
+**<u>Yujia Liu</u>**\*, Qihang Shan\*, Zhihao Yao, Qiuyu Lu.
 - We developed KeyFlow, a system that integrates mouse functionality into keyboards using machine learning, enabling users to control the cursor by gliding their fingers across the surface without pressing keys. Our research shows that KeyFlow reduces hand movement by 78.3%, significantly enhancing typing efficiency.
 This work has been published on ACM UIST’24 Poster. My work included organizing and writing the paper.
 </div>
