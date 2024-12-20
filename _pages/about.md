@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Yujia Liu, currently a 3rd-year M.A. student in Information Art and Design at Tsinghua University's Future Lab, advised by Prof. [Yingqing Xu](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/Human_Computer_Interaction__and_User_Experience/Resercher/Yingqing_Xu.htm) and Prof. [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/). 
+I'm Yujia Liu, currently a 3rd-year M.A. student in Information Art and Design at [Tsinghua University's Future Lab](https://thfl.tsinghua.edu.cn/en/), advised by Prof. [Yingqing Xu](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/Human_Computer_Interaction__and_User_Experience/Resercher/Yingqing_Xu.htm) and Prof. [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/). 
 
 With my background in Electrical Engineering and Computer Science (EECS), Mechanical Engineering, and Product Design, my previous research focused on <u>human-AI interaction</u>, <u>prototype engineering</u>, and their intersection. I am not only eager to develope adaptive sensing systems that enhance AI's understanding of human contexts, but also interested in applying these innovations to real-world scenarios such as smart healthcare and responsive educational technologies.
 
