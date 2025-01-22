@@ -178,8 +178,8 @@ My work included designing and conducting the user study, adjusting images, and 
 - *2017.08 - 2022.07*, Tsinghua University, B.Eng. in Automation Engineering & B.A. in Industrial Design.
 
 # 💻 Internship Experience
-- *2024.6 - Now*, Visiting Student @ HCI Engineering Group, CSAIL, MIT.
 - *2021.8 - Now*, Research Assistant @ Future Lab, Tsinghua University.
+- *2024.6 - 2024.11*, Visiting Student @ HCI Engineering Group, CSAIL, MIT.
 - *2022.10 - 2023.6*, Research Assistant @ Pervasive Interaction Laboratory, Tsinghua University.
 - *2021.07 - 2021.10*, Product Manager Intern @ Huawei, ID/UX Design Group, Cyberverse Product Line.
 - *2020.06 - 2020.08*, Algorithm Engineer Intern @ Beijing Ewaybot Technology, Robot Navigation Group.
