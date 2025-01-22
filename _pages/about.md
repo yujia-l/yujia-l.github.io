@@ -35,9 +35,7 @@ View my [CV](https://yujia-l.github.io/pdfs/CV.pdf).
 - 2025/01: Our paper "**XStrings**" has been accepted by CHI 2025! 🎉
 
 # 📝 Publications 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to CHI'25</div><img src='images/proj/BrickSmart.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Accepted by CHI'25</div><img src='images/proj/BrickSmart.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
   
 [BrickSmart: Leveraging Generative AI to Support Children's Spatial Language Learning in Family Block Play](https://yujia-l.github.io/pdfs/BrickSmart.pdf)
@@ -48,7 +46,7 @@ This work has been submitted to ACM CHI’25, with me being the first author.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to CHI'25</div><img src='images/proj/Mentigo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted by CHI'25</div><img src='images/proj/Mentigo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Mentigo: An Intelligent Agent for Mentoring Students in the Creative Problem Solving Process](https://yujia-l.github.io/pdfs/Mentigo.pdf)
@@ -71,7 +69,7 @@ This work has been submitted to ACM CHI’25, with me being the first author.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to CHI'25</div><img src='images/proj/Xstrings.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted by CHI'25</div><img src='images/proj/Xstrings.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Xstrings: 3D printing cable-driven mechanism for actuation, deformation, and manipulation](https://yujia-l.github.io/pdfs/Xstrings.pdf)
