@@ -35,7 +35,7 @@ View my [CV](https://yujia-l.github.io/pdfs/CV.pdf).
 - 2025/01: Our paper "**XStrings**" has been accepted by CHI 2025! 🎉
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">Accepted by CHI'25</div><img src='images/proj/BrickSmart.png' alt="sym" width="100%"></div>
+<div class='paper-box-image'><div><div class="badge">Accepted by CHI'25</div><img src='images/proj/BrickSmart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [BrickSmart: Leveraging Generative AI to Support Children's Spatial Language Learning in Family Block Play](https://yujia-l.github.io/pdfs/BrickSmart.pdf)
@@ -43,7 +43,6 @@ View my [CV](https://yujia-l.github.io/pdfs/CV.pdf).
 **<u>Yujia Liu</u>**\*, Siyu Zha\*, Yuewen Zhang, Yanjin Wang, Yangming Zhang, Qi Xin, Lunyiu Nie, Chao Zhang, Yingqing Xu.
 - As the project leader of this startup project, we initially focusing on using generative models to create personalized LEGO instructions, promoting creativity and eco-friendly reuse of LEGO bricks. We later expanded the app to support children's spatial language learning in family block play using LLM and Gen-AI technology. A lab experiment with 24 parent-child pairs (children aged 6-8) demonstrated its effectiveness in enhancing spatial language skills. 
 This work has been submitted to ACM CHI’25, with me being the first author.
-</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted by CHI'25</div><img src='images/proj/Mentigo.png' alt="sym" width="100%"></div></div>
