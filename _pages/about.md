@@ -29,6 +29,11 @@ View my [CV](https://yujia-l.github.io/pdfs/CV.pdf).
 <img src='images/proj/interests.png' alt="sym" width="70%">
 </center>
 
+# 🔥 News
+- 2025/01: Our paper "**BrickSmart**" has been accepted by CHI 2025! 🎉
+- 2025/01: Our paper "**Mentigo**" has been accepted by CHI 2025! 🎉
+- 2025/01: Our paper "**XStrings**" has been accepted by CHI 2025! 🎉
+
 # 📝 Publications 
 
 
