@@ -10,13 +10,13 @@ main:
     url: "/#-publications"
 
   - title: "Projects"
-    url: "/#-other projects"
+    url: "/#-projects"
 
   - title: "Educations"
     url: "/#-educations"
 
   - title: "Internships"
-    url: "/#-internship experience"
+    url: "/#-internships"
 
   - title: "Hobbies"
     url: "/#-hobbies"

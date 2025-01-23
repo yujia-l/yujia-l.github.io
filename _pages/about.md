@@ -132,7 +132,7 @@ MingYu Cui, Chao Yuan, **<u>Yujia Liu</u>**, Yingying Zheng.
 </div>
 </div>
 
-# 🗂️ Other Projects
+# 🗂️ Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/smart_editing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -187,7 +187,7 @@ MingYu Cui, Chao Yuan, **<u>Yujia Liu</u>**, Yingying Zheng.
 - *2022.09 - Now*, Tsinghua University, M.A. in Information Art and Design.
 - *2017.08 - 2022.07*, Tsinghua University, B.Eng. in Automation Engineering & B.A. in Industrial Design.
 
-# 💻 Internship Experience
+# 💻 Internships
 - *2021.8 - Now*, Research Assistant @ Future Lab, Tsinghua University.
 - *2024.6 - 2024.11*, Visiting Student @ HCI Engineering Group, CSAIL, MIT.
 - *2022.10 - 2023.6*, Research Assistant @ Pervasive Interaction Laboratory, Tsinghua University.
