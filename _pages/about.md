@@ -132,7 +132,7 @@ MingYu Cui, Chao Yuan, **<u>Yujia Liu</u>**, Yingying Zheng.
 </div>
 </div>
 
-# 🗂️ Other Projects 
+# 🗂️ Other Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/smart_editing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
