@@ -191,7 +191,7 @@ MingYu Cui, Chao Yuan, **<u>Yujia Liu</u>**, Yingying Zheng.
 - *2021.8 - Now*, Research Assistant @ Future Lab, Tsinghua University.
 - *2024.6 - 2024.11*, Visiting Student @ HCI Engineering Group, CSAIL, MIT.
 - *2022.10 - 2023.6*, Research Assistant @ Pervasive Interaction Laboratory, Tsinghua University.
-- *2021.07 - 2021.10*, Product Manager Intern @ Huawei, ID/UX Design Group, Cyberverse Product Line.
+- *2021.07 - 2021.10*, Product Manager Intern @ Tencent, ID/UX Design Group, Cyberverse Product Line.
 - *2020.06 - 2020.08*, Algorithm Engineer Intern @ Beijing Ewaybot Technology, Robot Navigation Group.
 
 # 🧘‍♀️ Hobbies
