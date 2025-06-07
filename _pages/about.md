@@ -195,6 +195,6 @@ MingYu Cui, Chao Yuan, **<u>Yujia Liu</u>**, Yingying Zheng.
 - *2020.06 - 2020.08*, Algorithm Engineer Intern @ Beijing Ewaybot Technology, Robot Navigation Group.
 
 # 🧘‍♀️ Hobbies
-In my spare time, I enjoy practicing yoga, zazen meditation, photography, and knitting. 
+In my spare time, I enjoy practicing yoga, zazen meditation, photography, and recently got into squash ☺️
 
 I’m also a vlogger & content creator on [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5ad8bc90e8ac2b398c6ac4a1) with ~90k subscribers. 
