@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Yujia Liu, currently a 3rd-year M.A. student in Information Art and Design at [Tsinghua University's Future Lab](https://thfl.tsinghua.edu.cn/en/), advised by Prof. [Yingqing Xu](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/Human_Computer_Interaction__and_User_Experience/Resercher/Yingqing_Xu.htm) and Prof. [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/). 
+Hi, I'm Yujia Liu, a first-year Ph.D. student at the [interactive structures lab](https://interactive-structures.org/), at Carnegie Mellon University (CMU) Human-Computer Interaction Institute (HCII) advised by [Prof. Alexandra Ion](https://alexandraion.com/). 
 
-Starting in Fall 2025, I will join Carnegie Mellon University (CMU) Human-Computer Interaction Institute (HCII) as a Ph.D. student, advised by Prof.[Alexandra Ion](https://alexandraion.com/).
+I want to use fabrication and hardware-based methods to develope adaptive sensing systems that enhance AI's understanding of human contexts, and applying these innovations to real-world scenarios.
 
-With my background in Electrical Engineering and Computer Science (EECS), Mechanical Engineering, and Product Design, my previous research focused on <u>human-AI interaction</u>, <u>prototype engineering</u>, and their intersection. I am not only eager to develope adaptive sensing systems that enhance AI's understanding of human contexts, but also interested in applying these innovations to real-world scenarios through fabrication and hardware-based methods.
+Before joining CMU, I got both undergraduate and master's degree at Tsinghua University, with a background in Electrical Engineering and Computer Science (EECS), Mechanical Engineering, and Product Design. My previous research focused on <u>human-AI interaction</u>, <u>prototype engineering</u>, and their intersection. 
 
 View my [CV](https://yujia-l.github.io/pdfs/CV.pdf).
 
@@ -30,6 +30,7 @@ View my [CV](https://yujia-l.github.io/pdfs/CV.pdf).
 </center>
 
 # 🔥 News
+- 2025/08: Start my PhD in CMU! 🥳 
 - 2025/01: Our paper "**BrickSmart**" has been accepted by CHI 2025! 🎉
 - 2025/01: Our paper "**Mentigo**" has been accepted by CHI 2025! 🎉
 - 2025/01: Our paper "**Xstrings**" has been accepted by CHI 2025! 🎉
