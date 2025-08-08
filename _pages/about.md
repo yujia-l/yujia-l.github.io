@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Yujia Liu, a first-year Ph.D. student at the [interactive structures lab](https://interactive-structures.org/), at Carnegie Mellon University (CMU) Human-Computer Interaction Institute (HCII) advised by [Prof. Alexandra Ion](https://alexandraion.com/). 
+Hi, I'm Yujia Liu, a first-year Ph.D. student at the [interactive structures lab](https://interactive-structures.org/) at Carnegie Mellon University (CMU) Human-Computer Interaction Institute (HCII), advised by [Prof. Alexandra Ion](https://alexandraion.com/). 
 
 I want to use fabrication and hardware-based methods to develope adaptive sensing systems that enhance AI's understanding of human contexts, and applying these innovations to real-world scenarios.
 
