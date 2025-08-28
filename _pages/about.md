@@ -199,4 +199,4 @@ MingYu Cui, Chao Yuan, **<u>Yujia Liu</u>**, Yingying Zheng.
 # 🧘‍♀️ Hobbies
 In my spare time, I enjoy practicing yoga, zazen meditation, photography, and recently got into squash ☺️
 
-I’m also a vlogger & content creator on [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5ad8bc90e8ac2b398c6ac4a1) with ~90k subscribers. 
+I’m also a vlogger & content creator on [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5ad8bc90e8ac2b398c6ac4a1) with ~110k subscribers. 
