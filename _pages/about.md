@@ -185,7 +185,8 @@ MingYu Cui, Chao Yuan, **<u>Yujia Liu</u>**, Yingying Zheng.
 </div>
 
 # 📖 Educations
-- *2022.09 - Now*, Tsinghua University, M.A. in Information Art and Design.
+- *2025.08 - Now*, Carnegie Mellon University, Ph.D. in Computer Science.
+- *2022.09 - 2025.07*, Tsinghua University, M.A. in Information Art and Design.
 - *2017.08 - 2022.07*, Tsinghua University, B.Eng. in Automation Engineering & B.A. in Industrial Design.
 
 # 💻 Internships
