@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yujia Liu 刘雨佳"
   avatar           : "images/profile.jpg"
-  bio              : "Tsinghua University"
-  location         : "Beijing, China"
+  bio              : "Carnegie Mellon University"
+  location         : "Pittsburgh, US"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=y5bZywMAAAAJ"
-  email            : "liuyujia990604@gmail.com"
+  email            : "yujialiu@andrew.cmu.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
