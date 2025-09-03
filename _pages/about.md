@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I'm Yujia Liu, a first-year Ph.D. student at the [interactive structures lab](https://interactive-structures.org/) at Carnegie Mellon University (CMU) Human-Computer Interaction Institute (HCII), advised by [Prof. Alexandra Ion](https://alexandraion.com/). 
 
-I want to use fabrication and hardware-based methods to develope adaptive sensing systems that enhance AI's understanding of human contexts, and applying these innovations to real-world scenarios, especilly in education.
+In my PhD, I want to explore the potential of **metamaterial** techniques as a bridge for **AI** to control and assist humans in real-world applications, especially in educational scenarios.
 
 Before joining CMU, I got both undergraduate and master's degree at Tsinghua University, with a background in Electrical Engineering and Computer Science (EECS), Mechanical Engineering, and Product Design. My previous research focused on <u>human-AI interaction</u>, <u>prototype engineering</u>, and their intersection. 
 
@@ -30,7 +30,7 @@ View my [CV](https://yujia-l.github.io/pdfs/CV.pdf).
 </center>
 
 # 🔥 News
-- 2025/08: Start my PhD in CMU! 🥳 
+- 2025/08: Started my PhD in CMU! 🥳 
 - 2025/01: Our paper "**BrickSmart**" has been accepted by CHI 2025! 🎉
 - 2025/01: Our paper "**Mentigo**" has been accepted by CHI 2025! 🎉
 - 2025/01: Our paper "**Xstrings**" has been accepted by CHI 2025! 🎉
@@ -190,9 +190,9 @@ MingYu Cui, Chao Yuan, **<u>Yujia Liu</u>**, Yingying Zheng.
 - *2017.08 - 2022.07*, Tsinghua University, B.Eng. in Automation Engineering & B.A. in Industrial Design.
 
 # 💻 Internships
-- *2021.8 - Now*, Research Assistant @ Future Lab, Tsinghua University.
-- *2024.6 - 2024.11*, Visiting Student @ HCI Engineering Group, CSAIL, MIT.
-- *2022.10 - 2023.6*, Research Assistant @ Pervasive Interaction Laboratory, Tsinghua University.
+- *2021.08 - 2025.06*, Research Assistant @ Future Lab, Tsinghua University.
+- *2024.06 - 2024.11*, Visiting Student @ HCI Engineering Group, CSAIL, MIT.
+- *2022.10 - 2023.06*, Research Assistant @ Pervasive Interaction Laboratory, Tsinghua University.
 - *2021.07 - 2021.10*, Product Manager Intern @ Tencent, ID/UX Design Group, Cyberverse Product Line.
 - *2020.06 - 2020.08*, Algorithm Engineer Intern @ Beijing Ewaybot Technology, Robot Navigation Group.
 
