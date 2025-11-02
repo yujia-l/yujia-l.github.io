@@ -31,15 +31,15 @@ View my [CV](https://yujia-l.github.io/pdfs/CV.pdf).
 
 # 🔥 News
 - 2025/08: Started my PhD in CMU! 🥳 
-- 2025/01: Our paper "**BrickSmart**" has been accepted by CHI 2025! 🎉
-- 2025/01: Our paper "**Mentigo**" has been accepted by CHI 2025! 🎉
-- 2025/01: Our paper "**Xstrings**" has been accepted by CHI 2025! 🎉
+- 2025/01: Our paper ["**BrickSmart**"](https://dl.acm.org/doi/10.1145/3706598.3714212) has been accepted by CHI 2025! 🎉
+- 2025/01: Our paper ["**Mentigo**"](https://dl.acm.org/doi/10.1145/3706598.3713952) has been accepted by CHI 2025! 🎉
+- 2025/01: Our paper ["**Xstrings**"](https://dl.acm.org/doi/10.1145/3706598.3714282) has been accepted by CHI 2025! 🎉
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted by CHI'25</div><img src='images/proj/BrickSmart.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'25</div><img src='images/proj/BrickSmart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[BrickSmart: Leveraging Generative AI to Support Children's Spatial Language Learning in Family Block Play](https://yujia-l.github.io/pdfs/BrickSmart.pdf)
+[BrickSmart: Leveraging Generative AI to Support Children's Spatial Language Learning in Family Block Play](https://dl.acm.org/doi/10.1145/3706598.3714212)
 
 **<u>Yujia Liu</u>**\*, Siyu Zha\*, Yuewen Zhang, Yanjin Wang, Yangming Zhang, Qi Xin, Lunyiu Nie, Chao Zhang, Yingqing Xu.
 - Led a project to generate personalized block play instructions for creativity and eco-friendly reuse of bricks.
@@ -49,10 +49,10 @@ View my [CV](https://yujia-l.github.io/pdfs/CV.pdf).
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted by CHI'25</div><img src='images/proj/Mentigo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'25</div><img src='images/proj/Mentigo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Mentigo: An Intelligent Agent for Mentoring Students in the Creative Problem Solving Process](https://yujia-l.github.io/pdfs/Mentigo.pdf)
+[Mentigo: An Intelligent Agent for Mentoring Students in the Creative Problem Solving Process](https://dl.acm.org/doi/10.1145/3706598.3713952)
 
 Siyu Zha\*, **<u>Yujia Liu</u>**\*, Chengbo Zheng, Jiaqi Xu, Fuze Yu, Jiangtao Gong, Yingqing Xu.
 - Co-led the development of Mentigo, an interactive agent using LLMs to mentor middle school students through the creative problem-solving (CPS) process, with dataset of real classroom interactions and an agentic workflow.
@@ -73,10 +73,10 @@ Siyu Zha\*, **<u>Yujia Liu</u>**\*, Chengbo Zheng, Jiaqi Xu, Fuze Yu, Jiangtao G
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted by CHI'25</div><img src='images/proj/Xstrings.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'25</div><img src='images/proj/Xstrings.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Xstrings: 3D printing cable-driven mechanism for actuation, deformation, and manipulation](https://yujia-l.github.io/pdfs/Xstrings.pdf)
+[Xstrings: 3D printing cable-driven mechanism for actuation, deformation, and manipulation](https://dl.acm.org/doi/10.1145/3706598.3714282)
 
 Jiaji Li, Shuyue Feng, Maxine Alexandra Perroni-Scharf, **<u>Yujia Liu</u>**, Emily Guan, Guanyun Wang, Stefanie Mueller. 
 - We developed Xstrings, a method for 3D printing cable-driven mechanisms in a single process, enabling four types of interactions: bend, twist, coil, and compress, activated by applying force to the cables.
