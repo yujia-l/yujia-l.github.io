@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Yujia Liu, a first-year Ph.D. student at the [interactive structures lab](https://interactive-structures.org/) at Carnegie Mellon University (CMU) Human-Computer Interaction Institute (HCII), advised by [Prof. Alexandra Ion](https://alexandraion.com/). 
+I'm a first-year Ph.D. student at the [interactive structures lab](https://interactive-structures.org/) at Carnegie Mellon University ([CMU](https://www.cmu.edu/)) Human-Computer Interaction Institute ([HCII](https://hcii.cmu.edu/)), advised by [Prof. Alexandra Ion](https://alexandraion.com/). 
 
 In my PhD, I aim to explore how **<u>metamaterial</u>** can serve as interfaces that allow **<u>AI</u>** to assist humans in real-world applications, especially in **<u>education</u>** scenarios.
 
