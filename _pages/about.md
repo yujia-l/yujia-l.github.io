@@ -21,7 +21,7 @@ Hi, I'm Yujia Liu, a first-year Ph.D. student at the [interactive structures lab
 
 In my PhD, I aim to explore how **metamaterial** can serve as interfaces that allow **AI** to assist humans in real-world applications, especially in **education** scenarios.
 
-Before joining CMU, I got both undergraduate and master's degree at Tsinghua University, with a background in Electrical Engineering and Computer Science (EECS), Mechanical Engineering, and Product Design. My previous research focused on <u>human-AI interaction</u>, <u>prototype engineering</u>, and their intersection. 
+Before joining CMU, I got both undergraduate and master's degree at Tsinghua University, with a background in Electrical Engineering and Computer Science (EECS), Mechanical Engineering, and Product Design. 
 
 View my [CV](https://yujia-l.github.io/pdfs/CV.pdf).
 
