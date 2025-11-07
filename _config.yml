@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yujia's Homepage"
-description              : "PhD Student at CMU HCII"
+description              : 
 repository               : "yujia-l/yujia-l.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yujia Liu 刘雨佳"
   avatar           : "images/profile.jpg"
-  bio              : "Carnegie Mellon University"
+  bio              : "PhD Student at CMU HCII"
   location         : "Pittsburgh, US"
   employer         :
   pubmed           : 
