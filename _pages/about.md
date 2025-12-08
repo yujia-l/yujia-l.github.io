@@ -87,7 +87,6 @@ Jiaji Li, Shuyue Feng, Maxine Alexandra Perroni-Scharf, **<u>Yujia Liu</u>**, Em
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'24</div><img src='images/proj/MindShift_o.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
