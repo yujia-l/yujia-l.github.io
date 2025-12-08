@@ -36,7 +36,7 @@ View my [CV](https://yujia-l.github.io/pdfs/CV.pdf) (updated: 12/2025).
 - 2025/01: Our paper ["**Xstrings**"](https://dl.acm.org/doi/10.1145/3706598.3714282) has been accepted by CHI 2025! 🎉
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'25</div><img src='images/proj/BrickSmart.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'25</div><div class="badge">🏅Honorable Mention Award (Top 5%)</div><img src='images/proj/BrickSmart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [BrickSmart: Leveraging Generative AI to Support Children's Spatial Language Learning in Family Block Play](https://dl.acm.org/doi/10.1145/3706598.3714212)
@@ -73,7 +73,7 @@ Siyu Zha\*, **<u>Yujia Liu</u>**\*, Chengbo Zheng, Jiaqi Xu, Fuze Yu, Jiangtao G
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'25</div><img src='images/proj/Xstrings.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'25</div><div class="badge">🏅Honorable Mention Award (Top 5%)</div><img src='images/proj/Xstrings.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Xstrings: 3D printing cable-driven mechanism for actuation, deformation, and manipulation](https://dl.acm.org/doi/10.1145/3706598.3714282)
