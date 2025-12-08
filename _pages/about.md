@@ -62,18 +62,6 @@ Siyu Zha\*, **<u>Yujia Liu</u>**\*, Chengbo Zheng, Jiaqi Xu, Fuze Yu, Jiangtao G
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission</div><img src='images/proj/3DMirrorcle.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[3D-Mirrorcle: Bridging the Virtual and Real through Depth Alignment in Smart Mirror Systems](https://yujia-l.github.io/pdfs/3DMirrorcle.pdf)
-
-**<u>Yujia Liu</u>**, Qi Xin, Chenzhuo Xiang, Yu Zhang, Lunyiu Nie, Xuhai Xu, Yingqing Xu.
-- Led the development of 3DMirrorcle, a system addressing depth mismatch in AR smart mirrors using lenticular grating for a 3D display and algorithms for mirror reflection alignment and lenticular grating segmentation to align AR content with users' reflections.
-- Conducted user studies across various tasks and scenarios, demonstrating superior performance in user experience compared to existing solutions.
-- First author of the work.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'25</div><img src='images/proj/Xstrings.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -86,6 +74,19 @@ Jiaji Li, Shuyue Feng, Maxine Alexandra Perroni-Scharf, **<u>Yujia Liu</u>**, Em
 - This work has been accepted by ACM CHI’25. My work included mathematical derivation, test printing parameters, engineering the prototype, and writing parts of the paper.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/proj/3DMirrorcle.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[3D-Mirrorcle: Bridging the Virtual and Real through Depth Alignment in Smart Mirror Systems](https://yujia-l.github.io/pdfs/3DMirrorcle.pdf)
+
+**<u>Yujia Liu</u>**, Qi Xin, Chenzhuo Xiang, Yu Zhang, Lunyiu Nie, Xuhai Xu, Yingqing Xu.
+- Led the development of 3DMirrorcle, a system addressing depth mismatch in AR smart mirrors using lenticular grating for a 3D display and algorithms for mirror reflection alignment and lenticular grating segmentation to align AR content with users' reflections.
+- Conducted user studies across various tasks and scenarios, demonstrating superior performance in user experience compared to existing solutions.
+- First author of the work.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'24</div><img src='images/proj/MindShift_o.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
