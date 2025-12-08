@@ -23,7 +23,7 @@ In my PhD, I aim to explore how **<u>metamaterial</u>** can serve as interfaces 
 
 Before joining CMU, I got both undergraduate and master's degrees at [Tsinghua University](https://www.tsinghua.edu.cn/en/), with a background in Electrical Engineering and Computer Science (EECS), Mechanical Engineering, and Product Design.
 
-View my [CV](https://yujia-l.github.io/pdfs/CV.pdf).
+View my [CV](https://yujia-l.github.io/pdfs/CV.pdf) (updated: 12/2025).
 
 <center>
 <img src='images/proj/interests.png' alt="sym" width="70%">
