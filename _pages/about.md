@@ -30,7 +30,7 @@ View my [CV](https://yujia-l.github.io/pdfs/CV.pdf) (updated: 01/2026).
 </center>
 
 # 🔥 News
-- 2026/01: Our paper **Towards Accessible Mobility Support** has been accepted by CHI 2026! 🎉
+- 2026/01: Our paper "**Towards Accessible Mobility Support**" has been accepted by CHI 2026! 🎉
 - 2025/08: Started my PhD in CMU! 🥳 
 - 2025/01: Our paper ["**BrickSmart**"](https://dl.acm.org/doi/10.1145/3706598.3714212) has been accepted by CHI 2025! 🎉
 - 2025/01: Our paper ["**Mentigo**"](https://dl.acm.org/doi/10.1145/3706598.3713952) has been accepted by CHI 2025! 🎉
