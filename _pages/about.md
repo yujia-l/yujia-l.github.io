@@ -37,7 +37,7 @@ View my [CV](https://yujia-l.github.io/pdfs/CV.pdf) (updated: 01/2026).
 - 2025/01: Our paper ["**Xstrings**"](https://dl.acm.org/doi/10.1145/3706598.3714282) has been accepted by CHI 2025! 🎉
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/BrickSmart.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'25</div><img src='images/proj/BrickSmart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [BrickSmart: Leveraging Generative AI to Support Children's Spatial Language Learning in Family Block Play](https://dl.acm.org/doi/10.1145/3706598.3714212)
