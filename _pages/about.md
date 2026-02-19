@@ -30,13 +30,24 @@ View my [CV](https://yujia-l.github.io/pdfs/CV.pdf) (updated: 01/2026).
 </center>
 
 # 🔥 News
-- 2026/01: Our paper "**Towards Accessible Mobility Support**" has been accepted by CHI 2026! 🎉
+- 2026/01: Our paper ["**Towards Accessible Mobility Support**"](https://yujia-l.github.io/pdfs/Exoskeleton.pdf) has been accepted by CHI 2026! 🎉
 - 2025/08: Started my PhD in CMU! 🥳 
 - 2025/01: Our paper ["**BrickSmart**"](https://dl.acm.org/doi/10.1145/3706598.3714212) has been accepted by CHI 2025! 🎉
 - 2025/01: Our paper ["**Mentigo**"](https://dl.acm.org/doi/10.1145/3706598.3713952) has been accepted by CHI 2025! 🎉
 - 2025/01: Our paper ["**Xstrings**"](https://dl.acm.org/doi/10.1145/3706598.3714282) has been accepted by CHI 2025! 🎉
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'25</div><img src='images/proj/Exoskeleton.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Towards Accessible Mobility Support: User-Centered Design of a Passive, Multi-Functional, Low-Cost Knee Exoskeleton](https://yujia-l.github.io/pdfs/Exoskeleton.pdf)
+Yuyu Lin, **<u>Yujia Liu</u>**, Emma Kim, Alexandra Ion.
+- We designed a fully passive knee exoskeleton that locks during stance and unlocks during swing using underfoot load as the trigger, enabling more natural walking (including stairs/slopes) without electronics. 
+- The prototype combines load-triggered heel/toe switches with a mechanical AND gate and achieves lightweight, low-cost mobility support (0.95 kg, ~$38) in a sock-like form factor.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'25</div><img src='images/proj/BrickSmart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -44,10 +55,9 @@ View my [CV](https://yujia-l.github.io/pdfs/CV.pdf) (updated: 01/2026).
 
 <p style="color:#e67e22;">🏅Honorable Mention Award (Top 5%)</p>
 **<u>Yujia Liu</u>**\*, Siyu Zha\*, Yuewen Zhang, Yanjin Wang, Yangming Zhang, Qi Xin, Lunyiu Nie, Chao Zhang, Yingqing Xu.
-- Led a project to generate personalized block play instructions for creativity and eco-friendly reuse of bricks.
+- Led this project to generate personalized block play instructions for creativity and eco-friendly reuse of bricks.
 - Designed an AI Agent for children's spatial language learning in family block play, using LLMs and Gen-AI.
 - Conducted a lab experiment with 24 parent-child pairs (children aged 6-8), demonstrating the system's effectiveness in enhancing spatial language skills.
-- First author of this paper, accepted by ACM CHI’25.
 </div>
 </div>
 
@@ -59,7 +69,6 @@ View my [CV](https://yujia-l.github.io/pdfs/CV.pdf) (updated: 01/2026).
 Siyu Zha\*, **<u>Yujia Liu</u>**\*, Chengbo Zheng, Jiaqi Xu, Fuze Yu, Jiangtao Gong, Yingqing Xu.
 - Co-led the development of Mentigo, an interactive agent using LLMs to mentor middle school students through the creative problem-solving (CPS) process, with dataset of real classroom interactions and an agentic workflow.
 - Tested effectiveness through a comparative experiment with 12 students and feedback from 5 expert teachers, showing significant improvements in student engagement and creative outcomes. 
-- Co-first author of this paper, accepted by ACM CHI’25.
 </div>
 </div>
 
@@ -72,7 +81,6 @@ Siyu Zha\*, **<u>Yujia Liu</u>**\*, Chengbo Zheng, Jiaqi Xu, Fuze Yu, Jiangtao G
 Jiaji Li, Shuyue Feng, Maxine Alexandra Perroni-Scharf, **<u>Yujia Liu</u>**, Emily Guan, Guanyun Wang, Stefanie Mueller. 
 - We developed Xstrings, a method for 3D printing cable-driven mechanisms in a single process, enabling four types of interactions: bend, twist, coil, and compress, activated by applying force to the cables.
 - Investigated the impact of various printing parameters on maximum tensile strain and the repeatability of interactions without cable failure.
-- This work has been accepted by ACM CHI’25. My work included mathematical derivation, test printing parameters, engineering the prototype, and writing parts of the paper.
 </div>
 </div>
 
@@ -84,7 +92,6 @@ Jiaji Li, Shuyue Feng, Maxine Alexandra Perroni-Scharf, **<u>Yujia Liu</u>**, Em
 **<u>Yujia Liu</u>**, Qi Xin, Chenzhuo Xiang, Yu Zhang, Lunyiu Nie, Xuhai Xu, Yingqing Xu.
 - Led the development of 3DMirrorcle, a system addressing depth mismatch in AR smart mirrors using lenticular grating for a 3D display and algorithms for mirror reflection alignment and lenticular grating segmentation to align AR content with users' reflections.
 - Conducted user studies across various tasks and scenarios, demonstrating superior performance in user experience compared to existing solutions.
-- First author of the work.
 </div>
 </div>
 
@@ -96,7 +103,6 @@ Jiaji Li, Shuyue Feng, Maxine Alexandra Perroni-Scharf, **<u>Yujia Liu</u>**, Em
 Ruolan Wu, Chun Yu, Xiaole Pan, **<u>Yujia Liu</u>**, Ningning Zhang, Yue Fu, Yuhan Wang, Zhi Zheng, Li Chen, Qi-aolei Jiang, Xuhai Xu, Yuanchun Shi.
 - We developed MindShift, a mobile app that uses LLMs to create dynamic, personalized content aimed at reducing problematic smartphone use, adapting to user context and mental states. 
 - Wizard-of-Oz and interview studies were conducted to identify key mental states, and the system was validated in a 5-week field trial with 25 participants, showing significant improvements in smartphone usage patterns.
-- This work was published on ACM CHI’24. My work included conducting the Wizard-of-Oz studies and the field trial, data analyzing, and illustrating the findings.
 </div>
 </div>
 
@@ -108,7 +114,6 @@ Ruolan Wu, Chun Yu, Xiaole Pan, **<u>Yujia Liu</u>**, Ningning Zhang, Yue Fu, Yu
 **<u>Yujia Liu</u>**\*, Qihang Shan\*, Zhihao Yao, Qiuyu Lu.
 - Led the development of KeyFlow, a system that integrates mouse functionality into keyboards using machine learning, enabling users to control the cursor by gliding their fingers across the surface without pressing keys.
 - Our research shows that KeyFlow reduces hand movement by 78.3%, significantly enhancing typing efficiency.
-- First author of work published at ACM UIST’24 Poster.
 </div>
 </div>
 
@@ -120,7 +125,6 @@ Ruolan Wu, Chun Yu, Xiaole Pan, **<u>Yujia Liu</u>**, Ningning Zhang, Yue Fu, Yu
 Tianyu Yu, Yang Liu, **<u>Yujia Liu</u>**, Qiuyu Lu, Teng Han, Haipeng Mi.
 - We developed FlexEOP, a method for creating fully flexible electroosmotic pumps, enabling adaptable, self-contained shape-changing actuators.
 - FlexEOP’s versatility is demonstrated in applications such as flexible displays, panels, curved surfaces, and soft robotic fibers.
-- This work has been published on ACM UIST’24 Demo. My work contributions include experimental design and testing, modeling and rendering, and writing parts of the paper.
 </div>
 </div>
 
@@ -132,7 +136,6 @@ Tianyu Yu, Yang Liu, **<u>Yujia Liu</u>**, Qiuyu Lu, Teng Han, Haipeng Mi.
 MingYu Cui, Chao Yuan, **<u>Yujia Liu</u>**, Yingying Zheng.
 - We enhanced art education for the visually impaired by focusing on Impressionist paintings through workshops.
 - Experts translated key painting elements (layout, content, color, lighting, brushwork) into tactile forms, using clay modeling to help participants experience, analyze, and create art, enriching their engagement.
-- This work has been published on ACM UbiComp’24 Workshop. My work was method development, paper writing.
 </div>
 </div>
 
@@ -144,7 +147,6 @@ MingYu Cui, Chao Yuan, **<u>Yujia Liu</u>**, Yingying Zheng.
 **Automated Video Editing with Semantic Analysis and Aesthetic Evaluation**
 - I led this industry-academic collaboration project to develop an intelligent video editing system that transforms photos and videos from users' smartphones into captivating highlight reels.
 - Using film editing principles, we crafted coherent narratives, emphasized key moments, and ensured seamless harmony between music and visuals.
-- My work was aligning musical elements with the film's style, identifying musical climaxes and video key moments, and creating rhythm, flow, and timing for cuts and transitions.
 </div>
 </div>
 
@@ -154,7 +156,6 @@ MingYu Cui, Chao Yuan, **<u>Yujia Liu</u>**, Yingying Zheng.
 **Adaptive Music and Lighting Systems for Emotional Well-being**
 - I led this industry-academic collaboration project, developing a smart home system that dynamically adjusts music and lighting to enhance the living experience.
 - Developed a framework that aligns music-emotion-light and implemented a demo using the Philips Hue system.
-- My work included literature review, creating music-emotion-light framework, and realizing the demo.
 </div>
 </div>
 
@@ -164,7 +165,6 @@ MingYu Cui, Chao Yuan, **<u>Yujia Liu</u>**, Yingying Zheng.
 **Design of Tactile Vibration Experience for Smartphones**
 - This industry-academic collaboration project aimed to study vibration experiences across different smartphones. 
 - We developed a framework that maps task urgency, importance, and metaphorical meaning to vibration timing, duration, intensity, frequency, and variability, based on a user study comparing smartphones from six brands.
-- My work involved conducting literature research, developing the framework, and designing the user study.
 </div>
 </div>
 
@@ -174,7 +174,6 @@ MingYu Cui, Chao Yuan, **<u>Yujia Liu</u>**, Yingying Zheng.
 **User’s Color Preferences of Pictures Across Diverse Displays**
 - This industry-academic collaboration project involved six expert interviews and a user study with 89 participants to identify color preferences for various image types across different smartphone hardware. 
 - We developed a framework to optimize picture color on specific smartphone hardware for improved aesthetics and user experience. 
-- My work included designing and conducting the user study, adjusting images, and analyzing the data.
 </div>
 </div>
 
