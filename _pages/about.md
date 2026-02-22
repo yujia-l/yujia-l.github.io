@@ -37,10 +37,11 @@ View my [CV](https://yujia-l.github.io/pdfs/CV.pdf) (updated: 01/2026).
 - 2025/01: Our paper ["**Xstrings**"](https://dl.acm.org/doi/10.1145/3706598.3714282) has been accepted by CHI 2025! 🎉
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'25</div><img src='images/proj/Exoskeleton.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'26</div><img src='images/proj/Exoskeleton.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Towards Accessible Mobility Support: User-Centered Design of a Passive, Multi-Functional, Low-Cost Knee Exoskeleton](https://yujia-l.github.io/pdfs/Exoskeleton.pdf)
+
 Yuyu Lin, **<u>Yujia Liu</u>**, Emma Kim, Alexandra Ion.
 - We designed a fully passive knee exoskeleton that locks during stance and unlocks during swing using underfoot load as the trigger, enabling more natural walking (including stairs/slopes) without electronics. 
 - The prototype combines load-triggered heel/toe switches with a mechanical AND gate and achieves lightweight, low-cost mobility support (0.95 kg, ~$38) in a sock-like form factor.
