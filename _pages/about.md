@@ -41,7 +41,7 @@ View my [**CV**](https://yujia-l.github.io/pdfs/CV.pdf) (updated: 01/2026).
 <div class='paper-box'><div class='paper-box-image'><div class="paper-box-image__frame"><div class="badge">CHI'26</div><img src='images/proj/Exoskeleton.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Towards Accessible Mobility Support: User-Centered Design of a Passive, Multi-Functional, Low-Cost Knee Exoskeleton](https://yujia-l.github.io/pdfs/Exoskeleton.pdf)
+[Towards Accessible Mobility Support: User-Centered Design of a Passive, Multi-Functional, Low-Cost Knee Exoskeleton](https://dl.acm.org/doi/full/10.1145/3772318.3791886)
 
 Yuyu Lin, **<u>Yujia Liu</u>**, Emma Kim, Alexandra Ion.
 - We designed a fully passive knee exoskeleton that locks during stance and unlocks during swing using underfoot load as the trigger, enabling more natural walking (including stairs/slopes) without electronics. 
