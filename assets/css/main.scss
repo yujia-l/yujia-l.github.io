@@ -234,10 +234,12 @@
 
     .interests-project__title {
       font-size: 0.78rem;
+      font-weight: 400;
     }
 
     .interests-project__venue {
       font-size: 0.8rem;
+      font-weight: 400;
     }
   }
 
@@ -301,8 +303,8 @@
       max-width: 34%;
       padding: 0.26em 0.4em;
 
-      .interests-project__title { font-size: 0.6rem; }
-      .interests-project__venue { font-size: 0.68rem; }
+      .interests-project__title { font-size: 0.6rem; font-weight: 400; }
+      .interests-project__venue { font-size: 0.68rem; font-weight: 400; }
     }
   }
 
