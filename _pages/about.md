@@ -37,6 +37,8 @@ View my [**CV**](https://yujia-l.github.io/pdfs/CV.pdf) (updated: 06/2026).
 </div>
 </div>
 
+{% include news-sidebar.html placement="mobile" %}
+
 <h1 id="-publications" class="section-heading">{% include section-icon.html name="publications" %} Publications</h1>
 <div class='paper-box'><div class="badge">CHI'26</div><div class='paper-box-image'><div class="paper-box-image__frame"><img src='images/proj/Exoskeleton.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">

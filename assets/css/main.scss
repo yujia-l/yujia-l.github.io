@@ -273,6 +273,23 @@
     text-decoration: none !important;
     text-decoration-line: none !important;
   }
+
+  &:not(.interests-project--chi) {
+    .interests-project__title,
+    .interests-project__venue {
+      font-weight: 400 !important;
+    }
+  }
+
+  &--chi {
+    .interests-project__title {
+      font-weight: 700 !important;
+    }
+
+    .interests-project__venue {
+      font-weight: 600 !important;
+    }
+  }
 }
 
 .interests-diagram.is-active {
@@ -472,6 +489,32 @@
     margin: 0 0 0.85em;
     padding-bottom: 0;
     border-bottom: none;
+  }
+}
+
+.news-sidebar--mobile {
+  display: none;
+  margin: 1.25em 0 1.5em;
+  background: #fff;
+  border-radius: $border-radius;
+  padding: 1.1em;
+  box-shadow: $card-shadow;
+  border: 1px solid rgba(220, 220, 220, 0.6);
+
+  .news-sidebar__title {
+    margin: 0 0 0.85em;
+    padding-bottom: 0;
+    border-bottom: none;
+  }
+}
+
+@include breakpoint(max-width $large) {
+  .sidebar .news-sidebar--sidebar {
+    display: none;
+  }
+
+  .news-sidebar--mobile {
+    display: block;
   }
 }
 
