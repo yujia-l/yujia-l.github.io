@@ -44,11 +44,11 @@
 .intro-block {
   display: flex;
   flex-direction: column;
-  gap: 1.25em;
+  gap: 1em;
   background: #fff;
   border-radius: $border-radius;
-  padding: 1.75em 2em;
-  margin-bottom: 1.5em;
+  padding: 1.5em 2em 1em;
+  margin-bottom: 0.75em;
   box-shadow: $card-shadow;
   border: 1px solid rgba(220, 220, 220, 0.6);
   animation: fadeInUp 0.6s ease both;
@@ -56,6 +56,7 @@
 
   &__image {
     text-align: center;
+    margin-bottom: -0.25em;
   }
 }
 
@@ -64,7 +65,7 @@
   width: 100%;
   max-width: 820px;
   margin: 0 auto;
-  aspect-ratio: 613 / 300;
+  aspect-ratio: 613 / 275;
   overflow: visible;
 
   &__svg {
@@ -231,13 +232,13 @@
   }
 
   &--left:nth-child(1) { top: 2%; }
-  &--left:nth-child(2) { top: 30%; }
-  &--left:nth-child(3) { top: 55%; }
+  &--left:nth-child(2) { top: 29%; }
+  &--left:nth-child(3) { top: 51%; }
   &--left:nth-child(4) { top: 70%; }
 
   &--right:nth-child(5) { right: 1%; top: 2%; }
-  &--right:nth-child(6) { right: 1%; top: 28%; }
-  &--right:nth-child(7) { right: 1%; top: 50%; }
+  &--right:nth-child(6) { right: 1%; top: 26%; }
+  &--right:nth-child(7) { right: 1%; top: 45%; }
   &--right:nth-child(8) { right: 1%; top: 70%; }
 }
 
@@ -291,6 +292,10 @@
     font-size: 1.05em;
     line-height: 1.7;
     margin-bottom: 0.75em;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
   }
 
   u {
@@ -408,6 +413,10 @@
 
 .section-heading--first {
   margin-top: 0;
+}
+
+.intro-block + .section-heading {
+  margin-top: 1.5em;
 }
 
 .news-sidebar__title.section-heading {
