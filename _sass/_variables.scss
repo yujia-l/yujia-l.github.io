@@ -13,11 +13,8 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 0.5em;
 
 /* system typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : "Trebuchet MS", Helvetica, sans-serif;
-// $sans-serif                 : Georgia, serif, sans-serif;
-
-// $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$serif                      : "Source Serif 4", Georgia, Times, serif;
+$sans-serif                 : "DM Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
@@ -50,25 +47,27 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$gray                       : #8a8a8a;
+$dark-gray                  : #4a4a4a;
+$darker-gray                : #2a2a2a;
+$light-gray                 : #c8c8c8;
+$lighter-gray               : #f0f0f0;
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
+$body-color                 : #f4f4f4;
+$background-color           : #f4f4f4;
+$code-background-color      : #ececec;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$text-color                 : #2a2a2a;
+$border-color               : #dcdcdc;
 
-$primary-color              : #7a8288;
+$primary-color              : #6b6b6b;
 $success-color              : #62c462;
-$warning-color              : #f89406;
+$warning-color              : #e8a838;
 $danger-color               : #ee5f5b;
-$info-color                 : #224b8d;
-// $info-color                 : #52adc8;
+$info-color                 : #333333;
+$accent-color               : #1a1a1a;
+$accent-light               : #e5e5e5;
+$accent-mid                 : #666666;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -150,8 +149,10 @@ $susy: (
    Other
    ========================================================================== */
 
-$border-radius              : 4px;
-$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$border-radius              : 10px;
+$box-shadow                 : 0 2px 12px rgba(0, 0, 0, 0.08);
+$card-shadow                : 0 4px 24px rgba(0, 0, 0, 0.07);
+$card-shadow-hover          : 0 8px 32px rgba(0, 0, 0, 0.12);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;

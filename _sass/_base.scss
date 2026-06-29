@@ -13,7 +13,9 @@ body {
   padding-bottom: 0em;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.5;
+  line-height: 1.65;
+  background: linear-gradient(160deg, #f4f4f4 0%, #ececec 45%, #e8e8e8 100%);
+  background-attachment: fixed;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -23,9 +25,11 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   margin: 1em 0 0.5em;
-  line-height: 1.2;
+  line-height: 1.25;
   font-family: $header-font-family;
-  font-weight: bold;
+  font-weight: 600;
+  color: #1a1a1a;
+  letter-spacing: -0.01em;
 }
 
 h1 {
@@ -118,7 +122,10 @@ blockquote {
 /* links */
 
 a {
-  
+  color: $link-color;
+  text-underline-offset: 2px;
+  transition: color 0.2s ease, border-color 0.2s ease;
+
   &:focus {
     @extend %tab-focus;
   }
@@ -126,6 +133,7 @@ a {
   &:hover,
   &:active {
     outline: 0;
+    color: $link-color-hover;
   }
 }
 

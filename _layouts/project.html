@@ -1,0 +1,56 @@
+---
+layout: compress
+---
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    <div id="main" role="main">
+      {% include sidebar.html %}
+
+      <article class="page project-page" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        <div class="page__inner-wrap">
+          <section class="page__content" itemprop="text">
+            <a href="{{ '/' | relative_url }}#-projects" class="project-back">&larr; Back to Projects</a>
+
+            <div class="project-detail">
+              {% if page.image %}
+              <div class="project-detail__hero">
+                <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+              </div>
+              {% endif %}
+
+              <h1 class="project-detail__title">{{ page.title }}</h1>
+              {% if page.tag %}<span class="project-tag">{{ page.tag }}</span>{% endif %}
+
+              <div class="project-detail__content">
+                {{ content }}
+              </div>
+
+              {% if page.links %}
+              <div class="project-detail__links">
+                {% for link in page.links %}
+                  <a href="{{ link.url }}" class="project-detail__link-btn">{{ link.label }}</a>
+                {% endfor %}
+              </div>
+              {% endif %}
+            </div>
+          </section>
+        </div>
+      </article>
+    </div>
+
+    {% include scripts.html %}
+
+  </body>
+</html>

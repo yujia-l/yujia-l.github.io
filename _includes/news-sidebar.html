@@ -1,0 +1,12 @@
+<div class="news-sidebar">
+  <span class="anchor" id="-news"></span>
+  <h3 class="news-sidebar__title section-heading">{% include section-icon.html name="news" small=true %} News</h3>
+  <ul class="news-list news-list--sidebar">
+    {% for item in site.data.news %}
+      <li>
+        <span class="news-list__date">{{ item.date }}</span>
+        {{ item.content }}
+      </li>
+    {% endfor %}
+  </ul>
+</div>

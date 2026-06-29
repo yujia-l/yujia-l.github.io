@@ -1,0 +1,13 @@
+<div class="project-grid">
+  {% assign projects = site.projects | sort: 'order' %}
+  {% for project in projects %}
+    <a href="{{ project.url | relative_url }}" class="project-card">
+      <div class="project-card__image">
+        <img src="{{ project.image | relative_url }}" alt="{{ project.title }}">
+      </div>
+      <div class="project-card__body">
+        <h3 class="project-card__title">{{ project.title }}</h3>
+      </div>
+    </a>
+  {% endfor %}
+</div>

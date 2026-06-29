@@ -117,6 +117,12 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
 # Defaults
 defaults:
   # _pages
@@ -125,6 +131,12 @@ defaults:
       type: pages
     values:
       layout: default
+      author_profile: true
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
       author_profile: true
 
 
