@@ -38,7 +38,7 @@ View my [**CV**](https://yujia-l.github.io/pdfs/CV.pdf) (updated: 01/2026).
 </div>
 
 <h1 id="-publications" class="section-heading">{% include section-icon.html name="publications" %} Publications</h1>
-<div class='paper-box'><div class="badge">CHI'26</div><div class='paper-box-image'><div><img src='images/proj/Exoskeleton.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-box-image__frame"><div class="badge">CHI'26</div><img src='images/proj/Exoskeleton.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Towards Accessible Mobility Support: User-Centered Design of a Passive, Multi-Functional, Low-Cost Knee Exoskeleton](https://yujia-l.github.io/pdfs/Exoskeleton.pdf)
@@ -50,7 +50,7 @@ Yuyu Lin, **<u>Yujia Liu</u>**, Emma Kim, Alexandra Ion.
 </div>
 
 
-<div class='paper-box'><div class="paper-box-badges"><div class="badge">CHI'25</div><span class="award-badge"><span class="award-badge__short">🏅 Honorable Mention</span><span class="award-badge__full">🏅 Honorable Mention Award (Top 5%)</span></span></div><div class='paper-box-image'><div><img src='images/proj/BrickSmart.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-box-image__frame"><div class="paper-box-badges"><div class="badge">CHI'25</div><span class="award-badge"><span class="award-badge__short">🏅 Honorable Mention</span><span class="award-badge__full">🏅 Honorable Mention Award (Top 5%)</span></span></div><img src='images/proj/BrickSmart.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [BrickSmart: Leveraging Generative AI to Support Children's Spatial Language Learning in Family Block Play](https://dl.acm.org/doi/10.1145/3706598.3714212)
@@ -61,7 +61,7 @@ Yuyu Lin, **<u>Yujia Liu</u>**, Emma Kim, Alexandra Ion.
 </div>
 </div>
 
-<div class='paper-box'><div class="badge">CHI'25</div><div class='paper-box-image'><div><img src='images/proj/Mentigo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-box-image__frame"><div class="badge">CHI'25</div><img src='images/proj/Mentigo.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Mentigo: An Intelligent Agent for Mentoring Students in the Creative Problem Solving Process](https://dl.acm.org/doi/10.1145/3706598.3713952)
@@ -72,7 +72,7 @@ Siyu Zha\*, **<u>Yujia Liu</u>**\*, Chengbo Zheng, Jiaqi Xu, Fuze Yu, Jiangtao G
 </div>
 </div>
 
-<div class='paper-box'><div class="paper-box-badges"><div class="badge">CHI'25</div><span class="award-badge"><span class="award-badge__short">🏅 Honorable Mention</span><span class="award-badge__full">🏅 Honorable Mention Award (Top 5%)</span></span></div><div class='paper-box-image'><div><img src='images/proj/Xstrings.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-box-image__frame"><div class="paper-box-badges"><div class="badge">CHI'25</div><span class="award-badge"><span class="award-badge__short">🏅 Honorable Mention</span><span class="award-badge__full">🏅 Honorable Mention Award (Top 5%)</span></span></div><img src='images/proj/Xstrings.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Xstrings: 3D printing cable-driven mechanism for actuation, deformation, and manipulation](https://dl.acm.org/doi/10.1145/3706598.3714282)
@@ -83,7 +83,7 @@ Jiaji Li, Shuyue Feng, Maxine Alexandra Perroni-Scharf, **<u>Yujia Liu</u>**, Em
 </div>
 </div>
 
-<div class='paper-box'><div class="badge">arXiv</div><div class='paper-box-image'><div><img src='images/proj/3DMirrorcle.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-box-image__frame"><div class="badge">arXiv</div><img src='images/proj/3DMirrorcle.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [3D-Mirrorcle: Bridging the Virtual and Real through Depth Alignment in Smart Mirror Systems](https://arxiv.org/abs/2310.13617)
@@ -94,7 +94,7 @@ Jiaji Li, Shuyue Feng, Maxine Alexandra Perroni-Scharf, **<u>Yujia Liu</u>**, Em
 </div>
 </div>
 
-<div class='paper-box'><div class="badge">CHI'24</div><div class='paper-box-image'><div><img src='images/proj/MindShift_o.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-box-image__frame"><div class="badge">CHI'24</div><img src='images/proj/MindShift_o.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention](https://dl.acm.org/doi/10.1145/3613904.3642790)
@@ -105,7 +105,7 @@ Ruolan Wu, Chun Yu, Xiaole Pan, **<u>Yujia Liu</u>**, Ningning Zhang, Yue Fu, Yu
 </div>
 </div>
 
-<div class='paper-box'><div class="badge">UIST'24 Poster</div><div class='paper-box-image'><div><img src='images/proj/KeyFlow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-box-image__frame"><div class="badge">UIST'24 Poster</div><img src='images/proj/KeyFlow.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [KeyFlow: Acoustic Motion Sensing for Cursor Control on Any Keyboard](https://dl.acm.org/doi/10.1145/3672539.3686348)
@@ -116,7 +116,7 @@ Ruolan Wu, Chun Yu, Xiaole Pan, **<u>Yujia Liu</u>**, Ningning Zhang, Yue Fu, Yu
 </div>
 </div>
 
-<div class='paper-box'><div class="badge">UIST'24 Demo</div><div class='paper-box-image'><div><img src='images/proj/FlexEOP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-box-image__frame"><div class="badge">UIST'24 Demo</div><img src='images/proj/FlexEOP.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FlexEOP: Flexible Shape-changing Actuator using Embedded Electroosmotic Pumps](https://dl.acm.org/doi/10.1145/3672539.3686785)
@@ -127,7 +127,7 @@ Tianyu Yu, Yang Liu, **<u>Yujia Liu</u>**, Qiuyu Lu, Teng Han, Haipeng Mi.
 </div>
 </div>
 
-<div class='paper-box'><div class="badge">UbiComp'24 Workshop</div><div class='paper-box-image'><div><img src='images/proj/MoreThanShapes.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-box-image__frame"><div class="badge">UbiComp'24 Workshop</div><img src='images/proj/MoreThanShapes.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [More Than Shapes: Exploring the Tactile Parameters of Art Appreciation for the Visually Impaired](https://dl.acm.org/doi/10.1145/3675094.3678391)
