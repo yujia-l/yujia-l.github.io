@@ -174,25 +174,6 @@
 
   &--right { text-align: right; }
 
-  .page__content & {
-    text-decoration: none;
-
-    &:hover,
-    &:focus-visible,
-    &.is-active {
-      text-decoration: none;
-    }
-
-    .interests-project__title {
-      text-decoration: underline;
-      text-underline-offset: 0.15em;
-    }
-
-    .interests-project__venue {
-      text-decoration: none;
-    }
-  }
-
   &__title {
     font-family: $sans-serif;
     font-size: 0.92rem;
@@ -269,6 +250,27 @@
   &--right:nth-child(6) { right: 1%; top: 30%; }
   &--right:nth-child(7) { right: 1%; top: 54%; }
   &--right:nth-child(8) { right: 1%; top: 80%; }
+}
+
+/* Beat .page__content a { text-decoration: underline } on GitHub Pages */
+.page__content .interests-diagram a.interests-project {
+  text-decoration: none !important;
+
+  &:hover,
+  &:focus-visible,
+  &.is-active {
+    text-decoration: none !important;
+  }
+
+  .interests-project__title {
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
+  }
+
+  .interests-project__venue {
+    text-decoration: none !important;
+    text-decoration-line: none !important;
+  }
 }
 
 .interests-diagram.is-active {
