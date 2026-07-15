@@ -476,6 +476,16 @@
 }
 
 
+/* Sticky sidebar: keep profile + news within the viewport and scroll */
+.sidebar.sticky {
+  @include breakpoint($large) {
+    max-height: calc(100vh - 7em);
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
 /* ── News in left sidebar ── */
 .sidebar .news-sidebar {
   margin-top: 1.25em;
