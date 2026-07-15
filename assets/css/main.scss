@@ -476,19 +476,12 @@
 }
 
 
-/* Sticky sidebar: keep profile + news within the viewport and scroll */
-.sidebar.sticky {
-  @include breakpoint($large) {
-    max-height: calc(100vh - 7em);
-    overflow-y: auto;
-    overscroll-behavior: contain;
-    -webkit-overflow-scrolling: touch;
-  }
-}
-
-/* ── News in left sidebar ── */
+/* ── News in left sidebar (scrollable window) ── */
 .sidebar .news-sidebar {
+  display: flex;
+  flex-direction: column;
   margin-top: 1.25em;
+  max-height: calc(100vh - 18em);
   background: #fff;
   border-radius: $border-radius;
   padding: 1.1em;
@@ -496,9 +489,19 @@
   border: 1px solid rgba(220, 220, 220, 0.6);
 
   &__title {
+    flex-shrink: 0;
     margin: 0 0 0.85em;
     padding-bottom: 0;
     border-bottom: none;
+  }
+
+  .news-list--sidebar {
+    flex: 1 1 auto;
+    min-height: 0;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    -webkit-overflow-scrolling: touch;
+    padding-right: 0.25em;
   }
 }
 
