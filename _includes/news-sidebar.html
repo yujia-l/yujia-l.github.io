@@ -4,7 +4,8 @@
   <ul class="news-list news-list--sidebar">
     {% for item in site.data.news %}
       <li>
-        <span class="news-list__date">{{ item.date }}</span>
+        {% assign ym = item.date | split: "/" %}
+        <span class="news-list__date">[{{ ym[1] }}/{{ ym[0] }}]</span>
         {{ item.content }}
       </li>
     {% endfor %}

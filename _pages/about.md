@@ -39,7 +39,7 @@ View my [**CV**](https://yujia-l.github.io/pdfs/CV.pdf) (updated: 06/2026).
 
 {% include news-sidebar.html placement="mobile" %}
 
-<h1 id="-publications" class="section-heading">{% include section-icon.html name="publications" %} Publications</h1>
+<h1 id="-publications" class="section-heading">{% include section-icon.html name="publications" %} Publications (Full Papers)</h1>
 <div class='paper-box'><div class="paper-box-badges"><div class="badge">UIST'26</div><span class="award-badge"><span class="award-badge__short">🏅 Best Demo HM</span><span class="award-badge__full">🏅 Best Demo Honorable Mention (Jury's Choice)</span></span></div><div class='paper-box-image'><div class="paper-box-image__frame"><img src='images/proj/MetaBeads.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1" style="padding-top: 2.2em;">
 
@@ -118,6 +118,7 @@ Ruolan Wu, Chun Yu, Xiaole Pan, **<u>Yujia Liu</u>**, Ningning Zhang, Yue Fu, Yu
 </div>
 </div>
 
+<h1 id="-short-publications" class="section-heading">{% include section-icon.html name="publications" %} Publications (Short Papers)</h1>
 <div class='paper-box'><div class="badge">UIST'24 Poster</div><div class='paper-box-image'><div class="paper-box-image__frame"><img src='images/proj/KeyFlow.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 

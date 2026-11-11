@@ -243,15 +243,16 @@
     }
   }
 
-  &--left:nth-child(1) { top: 2%; }
-  &--left:nth-child(2) { top: 31%; }
-  &--left:nth-child(3) { top: 57%; }
-  &--left:nth-child(4) { top: 80%; }
+  &--left:nth-child(1) { top: 0%; }
+  &--left:nth-child(2) { top: 20%; }
+  &--left:nth-child(3) { top: 45%; }
+  &--left:nth-child(4) { top: 67%; }
+  &--left:nth-child(5) { top: 85%; }
 
-  &--right:nth-child(5) { right: 1%; top: 2%; }
-  &--right:nth-child(6) { right: 1%; top: 30%; }
-  &--right:nth-child(7) { right: 1%; top: 54%; }
-  &--right:nth-child(8) { right: 1%; top: 80%; }
+  &--right:nth-child(6) { right: 1%; top: 2%; }
+  &--right:nth-child(7) { right: 1%; top: 30%; }
+  &--right:nth-child(8) { right: 1%; top: 54%; }
+  &--right:nth-child(9) { right: 1%; top: 80%; }
 }
 
 /* Beat .page__content a { text-decoration: underline } on GitHub Pages */
@@ -481,7 +482,8 @@
   display: flex;
   flex-direction: column;
   margin-top: 1.25em;
-  max-height: calc(100vh - 18em);
+  flex: 1 1 auto;
+  min-height: 12em;
   background: #fff;
   border-radius: $border-radius;
   padding: 1.1em;
@@ -502,6 +504,54 @@
     overscroll-behavior: contain;
     -webkit-overflow-scrolling: touch;
     padding-right: 0.25em;
+  }
+}
+
+/* ── Wider page, wider left sidebar ── */
+@include breakpoint($x-large) {
+  #main,
+  .masthead__inner-wrap {
+    max-width: 1500px;
+  }
+}
+
+@include breakpoint($large) {
+  .sidebar {
+    @include span(2.5 of 12);
+  }
+
+  .page {
+    @include span(9.5 of 12 last);
+  }
+
+  .sidebar .profile_box {
+    .author__avatar img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .author__bio {
+      text-align: center;
+    }
+
+    .author__urls {
+      width: fit-content;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+}
+
+@include breakpoint($large) {
+  .sidebar.sticky {
+    display: flex;
+    flex-direction: column;
+    max-height: calc(100vh - 90px - 1em);
+
+    > .profile_box {
+      flex-shrink: 0;
+    }
   }
 }
 
@@ -574,9 +624,27 @@
     margin-bottom: 0;
 
     li {
-      padding: 0.65em 0.75em 0.65em 1em;
-      font-size: 0.88em;
+      padding: 0.65em 0.25em;
+      margin-bottom: 0;
+      font-size: 0.86em;
       line-height: 1.5;
+      background: transparent;
+      border: none;
+      border-bottom: 1px solid rgba(0, 0, 0, 0.07);
+      border-radius: 0;
+      box-shadow: none;
+
+      &:last-child {
+        border-bottom: none;
+      }
+
+      &::before {
+        display: none;
+      }
+
+      &:hover {
+        box-shadow: none;
+      }
 
       &:hover {
         transform: none;
@@ -594,11 +662,11 @@
   }
 
   &__date {
-    display: block;
+    display: inline;
     font-size: 0.92em;
     font-weight: 600;
     color: $accent-color;
-    margin-bottom: 0.2em;
+    margin-right: 0.35em;
   }
 }
 
@@ -856,8 +924,8 @@
     }
 
     .paper-box-image {
-      flex: 0 0 52%;
-      max-width: 52%;
+      flex: 0 0 47%;
+      max-width: 47%;
       min-width: 0;
       align-self: center;
       display: block;
