@@ -1050,6 +1050,7 @@ h1:before, .anchor:before {
 }
 
 .project-card {
+  position: relative;
   display: flex;
   flex-direction: column;
   text-decoration: none;
@@ -1115,6 +1116,30 @@ h1:before, .anchor:before {
     color: #1a1a1a;
     text-decoration: none;
     transition: color 0.2s ease;
+  }
+
+  &__badge {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    padding: 0.45em 0.9em;
+    color: #fff;
+    background: $accent-color;
+    font-family: $sans-serif;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    box-shadow: 3px 3px 0 0 rgba(0, 0, 0, 0.12);
+  }
+
+  &__authors {
+    font-family: $sans-serif;
+    font-size: 0.78em;
+    line-height: 1.45;
+    margin: 0.5em 0 0;
+    color: #666;
   }
 }
 

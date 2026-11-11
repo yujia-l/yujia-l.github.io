@@ -119,37 +119,31 @@ Ruolan Wu, Chun Yu, Xiaole Pan, **<u>Yujia Liu</u>**, Ningning Zhang, Yue Fu, Yu
 </div>
 
 <h1 id="-short-publications" class="section-heading">{% include section-icon.html name="publications" %} Publications (Short Papers)</h1>
-<div class='paper-box'><div class="badge">UIST'24 Poster</div><div class='paper-box-image'><div class="paper-box-image__frame"><img src='images/proj/KeyFlow.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[KeyFlow: Acoustic Motion Sensing for Cursor Control on Any Keyboard](https://dl.acm.org/doi/10.1145/3672539.3686348)
-
-**<u>Yujia Liu</u>**\*, Qihang Shan\*, Zhihao Yao, Qiuyu Lu.
-- We developed KeyFlow, a system that integrates mouse functionality into keyboards using machine learning, enabling users to control the cursor by gliding their fingers across the surface without pressing keys.
-- Our research shows that KeyFlow reduces hand movement by 78.3%, significantly enhancing typing efficiency.
-</div>
-</div>
-
-<div class='paper-box'><div class="badge">UIST'24 Demo</div><div class='paper-box-image'><div class="paper-box-image__frame"><img src='images/proj/FlexEOP.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[FlexEOP: Flexible Shape-changing Actuator using Embedded Electroosmotic Pumps](https://dl.acm.org/doi/10.1145/3672539.3686785)
-
-Tianyu Yu, Yang Liu, **<u>Yujia Liu</u>**, Qiuyu Lu, Teng Han, Haipeng Mi.
-- We developed FlexEOP, a method for creating fully flexible electroosmotic pumps, enabling adaptable, self-contained shape-changing actuators.
-- FlexEOP’s versatility is demonstrated in applications such as flexible displays, panels, curved surfaces, and soft robotic fibers.
-</div>
-</div>
-
-<div class='paper-box'><div class="badge">UbiComp'24 Workshop</div><div class='paper-box-image'><div class="paper-box-image__frame"><img src='images/proj/MoreThanShapes.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[More Than Shapes: Exploring the Tactile Parameters of Art Appreciation for the Visually Impaired](https://dl.acm.org/doi/10.1145/3675094.3678391)
-
-MingYu Cui, Chao Yuan, **<u>Yujia Liu</u>**, Yingying Zheng.
-- We enhanced art education for the visually impaired by focusing on Impressionist paintings through workshops.
-- Experts translated key painting elements (layout, content, color, lighting, brushwork) into tactile forms, using clay modeling to help participants experience, analyze, and create art, enriching their engagement.
-</div>
+<div class="project-grid">
+  <a class="project-card" href="https://dl.acm.org/doi/10.1145/3672539.3686348" target="_blank" rel="noopener">
+    <div class="project-card__badge">UIST'24 Poster</div>
+    <div class="project-card__image"><img src="images/proj/KeyFlow.png" alt="KeyFlow"></div>
+    <div class="project-card__body">
+      <h3 class="project-card__title">KeyFlow: Acoustic Motion Sensing for Cursor Control on Any Keyboard</h3>
+      <p class="project-card__authors"><strong><u>Yujia Liu</u></strong>*, Qihang Shan*, Zhihao Yao, Qiuyu Lu</p>
+    </div>
+  </a>
+  <a class="project-card" href="https://dl.acm.org/doi/10.1145/3672539.3686785" target="_blank" rel="noopener">
+    <div class="project-card__badge">UIST'24 Demo</div>
+    <div class="project-card__image"><img src="images/proj/FlexEOP.png" alt="FlexEOP"></div>
+    <div class="project-card__body">
+      <h3 class="project-card__title">FlexEOP: Flexible Shape-changing Actuator using Embedded Electroosmotic Pumps</h3>
+      <p class="project-card__authors">Tianyu Yu, Yang Liu, <strong><u>Yujia Liu</u></strong>, Qiuyu Lu, Teng Han, Haipeng Mi</p>
+    </div>
+  </a>
+  <a class="project-card" href="https://dl.acm.org/doi/10.1145/3675094.3678391" target="_blank" rel="noopener">
+    <div class="project-card__badge">UbiComp'24 Workshop</div>
+    <div class="project-card__image"><img src="images/proj/MoreThanShapes.png" alt="More Than Shapes"></div>
+    <div class="project-card__body">
+      <h3 class="project-card__title">More Than Shapes: Exploring the Tactile Parameters of Art Appreciation for the Visually Impaired</h3>
+      <p class="project-card__authors">MingYu Cui, Chao Yuan, <strong><u>Yujia Liu</u></strong>, Yingying Zheng</p>
+    </div>
+  </a>
 </div>
 
 <h1 id="-projects" class="section-heading">{% include section-icon.html name="projects" %} Projects</h1>
