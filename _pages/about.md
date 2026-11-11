@@ -40,6 +40,17 @@ View my [**CV**](https://yujia-l.github.io/pdfs/CV.pdf) (updated: 06/2026).
 {% include news-sidebar.html placement="mobile" %}
 
 <h1 id="-publications" class="section-heading">{% include section-icon.html name="publications" %} Publications</h1>
+<div class='paper-box'><div class="paper-box-badges"><div class="badge">UIST'26</div><span class="award-badge"><span class="award-badge__short">🏅 Best Demo HM</span><span class="award-badge__full">🏅 Best Demo Honorable Mention (Jury's Choice)</span></span></div><div class='paper-box-image'><div class="paper-box-image__frame"><img src='images/proj/MetaBeads.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1" style="padding-top: 2.2em;">
+
+[MetaBeads: Enabling Shape- and Stiffness-Changing Interfaces through Beaded Metamaterials](https://dl.acm.org/doi/10.1145/3830398.3830618)
+
+**<u>Yujia Liu</u>**, Yuyu Lin, Xie He, Victoria Sun, Trevor J Jones, Alexandra Ion.
+- We introduce MetaBeads, a craft-based approach to building shape- and stiffness-changing interfaces with beads and strings, including 4 different repeatable mechanisms.
+- We demonstrate 4 application examples including rug-to-chair furniture, adaptable clothing, educational tools, and adaptable finger brace.
+</div>
+</div>
+
 <div class='paper-box'><div class="badge">CHI'26</div><div class='paper-box-image'><div class="paper-box-image__frame"><img src='images/proj/Exoskeleton.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   
